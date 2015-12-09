@@ -9,10 +9,8 @@ I followed [this link][customize-jekyll-urls] link to learn how to change the pe
 
 Going to have to look at that another time.
 
-Helpful links
+Helpful links:
 
-- List item 1
-- List item 2
-- List item 3
+- [Jekyll Gist Gems][https://github.com/jekyll/jekyll-gist]
 
 [customize-jekyll-urls]: http://stackoverflow.com/questions/8664675/how-to-customize-jekylls-url
