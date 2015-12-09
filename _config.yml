@@ -17,3 +17,4 @@ github_username:  capitalJT
 
 # Build settings
 markdown: kramdown
+permalink: /:title
