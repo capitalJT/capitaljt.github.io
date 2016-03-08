@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jabal!"
+title:  "Welcome to Jekyll!"
 date:   2015-10-31 21:35:48 -0700
 categories: jekyll update
 ---
