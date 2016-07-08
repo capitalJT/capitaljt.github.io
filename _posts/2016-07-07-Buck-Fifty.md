@@ -2,6 +2,7 @@
 layout: post
 title:  "Buck Fifty"
 date:   2016-07-07 00:58:19 -0700
+img-src: "http://placehold.it/350x150"
 categories: blog post
 ---
 
