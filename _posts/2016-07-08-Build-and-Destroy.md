@@ -18,3 +18,7 @@ For a long while I've been interested in messing with Jekyll but never really ma
 Oh yeah, I'm not paying for hosting anymore. I should act all fancy and say that I'm going completely open source but that's not really the case. Jekyll & Github seem to be a perfect solution for me. Handlebars engine is relatively simple templating engine and markdown makes crafting posts a breeze.
 
 This is great. I just tested some js console logs and returned some successful messages. I'm feeling pretty optimistic about this journey. Looking forward to building and breaking a lot of shit within the next hundo days.
+
+<div>
+    <h1>Mic Check 1, 2 (inside H1 tag)</h1>
+</div>

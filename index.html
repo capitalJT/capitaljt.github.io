@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Party & Bullshit</h1>
+  {% include hero.html %}
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -16,6 +16,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {% for category in post.categories %}
+        <span>{{ category }}</span>
+        {% endfor %}
       </li>
     {% endfor %}
   </ul>
