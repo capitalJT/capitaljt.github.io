@@ -18,6 +18,7 @@ github_username:  capitalJT
 # Build settings
 markdown: kramdown
 permalink: /:title
+#future: true
 
 gems:
   - jekyll-gist

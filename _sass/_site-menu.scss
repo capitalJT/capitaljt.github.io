@@ -1,0 +1,15 @@
+.site-menu{
+  border: solid thin red;
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 0;
+  li{
+    width: 100%;
+  }
+  @include media-query($on-palm) {
+    display: none;
+  }
+  &.isOpen{
+    display: block;
+  }
+}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Build & Destroy"
+title:  "Build & Destroyed"
 date:   2016-07-08 22:08:19 -0700
 categories: thoughts
 ---
