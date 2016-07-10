@@ -1,0 +1,95 @@
+// Media Queries
+
+// $mobile-portrait: 320px;
+// $small-tablet-portrait: 600px - 800px;
+// $small-tablet-landscape: 800px - 600px;
+// $tablet-portrait: 768px - 1024px;
+// $tablet-landscape: 1024px - 768px;
+// $wide-screen: 1280px;
+
+// media queries resource: http://stephen.io/mediaqueries/
+$sm-phone-width: 420px;
+$md-phone-width: 480px;
+
+$phablet-width: 520px;
+
+$tablet-width: 768px;
+$medium-width: 992px;
+$desktop-width: 1024px;
+$large-width: 1200px;
+
+
+// https://www.sitepoint.com/managing-responsive-breakpoints-sass/
+//=====================================================================
+// Exlploring media queries as sass map
+//=====================================================================
+$breakpoints: (
+        'small'  : ( min-width:  $tablet-width - 1px ),
+        'medium' : ( min-width:  $medium-width ),
+        'large'  : ( min-width: $large-width )
+);
+
+@mixin sm-phone-only {
+  @media (max-width: #{$sm-phone-width}) {
+    @content;
+  }
+}
+
+@mixin md-phone-only {
+  @media (max-width: #{$md-phone-width}) {
+    @content;
+  }
+}
+
+@mixin phablet-up {
+  @media (min-width: #{$phablet-width}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin tablet-only {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet-max {
+  @media (max-width: #{$tablet-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin medium-max {
+  @media (max-width: #{$medium-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin medium-screen {
+  @media (min-width: #{$medium-width}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+@mixin large-screen {
+  @media (min-width: #{$large-width}) {
+    @content;
+  }
+}
+@mixin large-screen-max {
+  @media (max-width: #{$large-width}) {
+    @content;
+  }
+}

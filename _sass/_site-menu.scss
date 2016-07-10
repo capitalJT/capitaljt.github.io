@@ -4,12 +4,23 @@
   margin-left: 0;
   margin-bottom: 0;
   li{
-    width: 100%;
+    display: block;
   }
   @include media-query($on-palm) {
     display: none;
   }
   &.isOpen{
     display: block;
+  }
+  @include tablet {
+    text-align: right;
+    li{
+      display: inline-block;
+    }
+    a{
+      padding: $spacing-unit/2 $spacing-unit;
+      display: inline-block;
+      margin-left: $spacing-unit/2;
+    }
   }
 }

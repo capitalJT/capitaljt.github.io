@@ -12,7 +12,7 @@
 .site-title-wrapper{
     height: 50px;
     width: 100%;
-    border: solid thin blue;
+    //border: solid thin blue;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -29,8 +29,12 @@
     &:visited {
         color: $grey-color-dark;
     }
-    background-color: pink;
-    border: solid thin red;
+    //background-color: pink;
+    //border: solid thin red;
+    @include tablet{
+        display: inline-block;
+        margin-top:4px;
+    }
 }
 
 .site-nav {
@@ -38,8 +42,8 @@
     //line-height: 56px;
 
     .menu-icon-wrapper{
-        background-color: pink;
-        border: solid thin red;
+        //background-color: pink;
+        //border: solid thin red;
         display: block;
         height: 50px;
     }
@@ -96,6 +100,12 @@
                 margin-right: 0;
             }
             margin-left: 20px;
+        }
+    }
+    @include tablet {
+        margin-top:-48px;
+        .menu-icon-wrapper{
+            display: none;
         }
     }
 }
