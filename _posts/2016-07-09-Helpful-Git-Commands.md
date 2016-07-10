@@ -2,6 +2,7 @@
 layout: post
 title:  "Helpful Git Commands"
 date:   2016-07-09 00:58:19 -0700
+author: Jay Tizzle
 categories: blog post
 ---
 Git Style Guide  
@@ -10,4 +11,4 @@ Git Style Guide
 Git Branch Naming Best Practices  
 [http://stackoverflow.com/questions/273695/git-branch-naming-best-practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)
 
-More Git Shit yo
+More Git Shit yo!
