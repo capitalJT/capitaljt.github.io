@@ -4,7 +4,7 @@ title:  "Helpful Git Commands"
 date:   2016-07-09 00:58:19 -0700
 categories: blog post
 ---
-Git Style Guide 
+Git Style Guide  
 [https://github.com/agis-/git-style-guide](https://github.com/agis-/git-style-guide)
 
 Git Branch Naming Best Practices  
