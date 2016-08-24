@@ -10,11 +10,11 @@ The One True Brace Style
 Simple Parallax Tutorial  
 [http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/](http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/)
 
-[http://jabaltorres.com/demos/dls](http://jabaltorres.com/demos/dls)
-[http://jabaltorres.com/demos/aljazeera/aj-careers/](http://jabaltorres.com/demos/aljazeera/aj-careers/)
-[http://jabaltorres.com/demos/aljazeera/aj-careers-ar/](http://jabaltorres.com/demos/aljazeera/aj-careers-ar/)
-[http://jabaltorres.com/demos/aljazeera/ajtc/](http://jabaltorres.com/demos/aljazeera/ajtc/)
-[http://jabaltorres.com/demos/aljazeera/ajtc-ar/](http://jabaltorres.com/demos/aljazeera/ajtc-ar/)
+[http://jabaltorres.com/demos/dls](http://jabaltorres.com/demos/dls)  
+[http://jabaltorres.com/demos/aljazeera/aj-careers/](http://jabaltorres.com/demos/aljazeera/aj-careers/)  
+[http://jabaltorres.com/demos/aljazeera/aj-careers-ar/](http://jabaltorres.com/demos/aljazeera/aj-careers-ar/)  
+[http://jabaltorres.com/demos/aljazeera/ajtc/](http://jabaltorres.com/demos/aljazeera/ajtc/)  
+[http://jabaltorres.com/demos/aljazeera/ajtc-ar/](http://jabaltorres.com/demos/aljazeera/ajtc-ar/)  
 [http://jabaltorres.com/demos/aljazeera/petition/](http://jabaltorres.com/demos/aljazeera/petition/)  
 [http://jabaltorres.com/demos/corostuff/](http://jabaltorres.com/demos/corostuff/)  
 [http://jabaltorres.com/demos/dbz/](http://jabaltorres.com/demos/dbz/)  
