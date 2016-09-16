@@ -14,3 +14,5 @@ Helpful links:
 - [Jekyll Gist Gems][https://github.com/jekyll/jekyll-gist]
 
 [customize-jekyll-urls]: http://stackoverflow.com/questions/8664675/how-to-customize-jekylls-url
+
+- Download / update ruby gems: https://rubygems.org/pages/download
