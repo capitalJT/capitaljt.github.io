@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AJ Arabic Design Language"
+title:  "Design Language System"
 date:   2016-09-14 00:58:19 -0700
 img-src: "http://placehold.it/350x150"
 categories: post notes
