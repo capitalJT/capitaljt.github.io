@@ -31,13 +31,9 @@ Shadows/Highlights...
  
 
 1. open the picture
-
 2. crop any borders
-
 3. check your histogram
-
 4. cleanup any dirt and scratches
-
 5. duplicate the original image and adjust the levels and increase the highlights
 
 6. duplicate the original image and adjust the levels and increase the shadows
