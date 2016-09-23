@@ -29,3 +29,19 @@ Simple Parallax Tutorial
 [http://jabaltorres.com/demos/refinery/](http://jabaltorres.com/demos/refinery/)  
 [http://jabaltorres.com/demos/test/](http://jabaltorres.com/demos/test/)  
 [http://jabaltorres.com/demos/web-fun/](http://jabaltorres.com/demos/web-fun/)  
+
+
+### Bash Links
+[Opening Sublime Text on command line as subl on Mac OS?](http://stackoverflow.com/questions/16199581/opening-sublime-text-on-command-line-as-subl-on-mac-os)  
+
+
+### New SASS Splash Dev Resource Links
+[Drupal 101: Theming Drupal 7 with gulp](https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/)  
+[Getting started with Gulp and Sass](http://ryanchristiani.com/getting-started-with-gulp-and-sass/)  
+[BrowserSync Documentation](https://www.browsersync.io/docs/gulp)  
+
+
+### Drupal Resources
+[http://dannyenglander.com/](http://dannyenglander.com/)  
+
+
