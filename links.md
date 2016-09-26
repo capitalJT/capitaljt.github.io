@@ -42,6 +42,7 @@ Simple Parallax Tutorial
 [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)  
 [Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)  
 [Gulp - remove local plugin](http://stackoverflow.com/questions/33814009/gulp-remove-local-plugin)  
+[Node streams handbook](https://github.com/substack/stream-handbook)  
 
 
 ### Drupal Resources
