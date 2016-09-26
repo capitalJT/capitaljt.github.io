@@ -43,6 +43,8 @@ Simple Parallax Tutorial
 [Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)  
 [Gulp - remove local plugin](http://stackoverflow.com/questions/33814009/gulp-remove-local-plugin)  
 [Node streams handbook](https://github.com/substack/stream-handbook)  
+[Gulp-jshint Tutorial](http://javascriptplayground.com/blog/2014/02/an-intro-to-gulp/)  
+[jshint Dependency Fix](https://github.com/spalger/gulp-jshint/issues/131#issuecomment-160395536)  
 [How to ignore files in jshint](http://stackoverflow.com/questions/14741110/have-jshint-ignore-certain-files-when-building-twitter-bootstrap#answer-14741346)  
 
 
