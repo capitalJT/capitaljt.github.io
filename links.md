@@ -39,14 +39,14 @@ Simple Parallax Tutorial
 [Drupal 101: Theming Drupal 7 with gulp](https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/)  
 [Getting started with Gulp and Sass](http://ryanchristiani.com/getting-started-with-gulp-and-sass/)  
 [BrowserSync Documentation](https://www.browsersync.io/docs/gulp)  
-[How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+[How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)  
+[Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)  
+[Gulp - remove local plugin](http://stackoverflow.com/questions/33814009/gulp-remove-local-plugin)  
 
 
 ### Drupal Resources
 [http://dannyenglander.com/](http://dannyenglander.com/)  
 [Javascript aggregation in Drupal 7](https://www.lullabot.com/articles/javascript-aggregation-in-drupal-7)  
 
-### Gulp Links
-[Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)  
-[Gulp - remove local plugin](http://stackoverflow.com/questions/33814009/gulp-remove-local-plugin)  
+
 
