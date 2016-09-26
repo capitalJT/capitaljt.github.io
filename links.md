@@ -48,3 +48,5 @@ Simple Parallax Tutorial
 
 ### Gulp Links
 [Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)
+[Gulp - remove local plugin](http://stackoverflow.com/questions/33814009/gulp-remove-local-plugin)  
+
