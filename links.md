@@ -39,6 +39,7 @@ Simple Parallax Tutorial
 [Drupal 101: Theming Drupal 7 with gulp](https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/)  
 [Getting started with Gulp and Sass](http://ryanchristiani.com/getting-started-with-gulp-and-sass/)  
 [BrowserSync Documentation](https://www.browsersync.io/docs/gulp)  
+[How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 
 
 ### Drupal Resources
