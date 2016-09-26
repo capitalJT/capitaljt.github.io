@@ -43,5 +43,6 @@ Simple Parallax Tutorial
 
 ### Drupal Resources
 [http://dannyenglander.com/](http://dannyenglander.com/)  
+[Javascript aggregation in Drupal 7](https://www.lullabot.com/articles/javascript-aggregation-in-drupal-7)  
 
 
