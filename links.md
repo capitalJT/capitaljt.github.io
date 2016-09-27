@@ -53,4 +53,8 @@ Simple Parallax Tutorial
 [Javascript aggregation in Drupal 7](https://www.lullabot.com/articles/javascript-aggregation-in-drupal-7)  
 
 
+### Git Resources
+[Hello World - Git Tutorial](https://guides.github.com/activities/hello-world/)
+
+
 
