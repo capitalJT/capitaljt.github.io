@@ -10,26 +10,6 @@ The One True Brace Style
 Simple Parallax Tutorial  
 [http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/](http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/)
 
-[http://jabaltorres.com/demos/dls](http://jabaltorres.com/demos/dls)  
-[http://jabaltorres.com/demos/aljazeera/aj-careers/](http://jabaltorres.com/demos/aljazeera/aj-careers/)  
-[http://jabaltorres.com/demos/aljazeera/aj-careers-ar/](http://jabaltorres.com/demos/aljazeera/aj-careers-ar/)  
-[http://jabaltorres.com/demos/aljazeera/ajtc/](http://jabaltorres.com/demos/aljazeera/ajtc/)  
-[http://jabaltorres.com/demos/aljazeera/ajtc-ar/](http://jabaltorres.com/demos/aljazeera/ajtc-ar/)  
-[http://jabaltorres.com/demos/aljazeera/petition/](http://jabaltorres.com/demos/aljazeera/petition/)  
-[http://jabaltorres.com/demos/corostuff/](http://jabaltorres.com/demos/corostuff/)  
-[http://jabaltorres.com/demos/dbz/](http://jabaltorres.com/demos/dbz/)  
-[http://jabaltorres.com/demos/dls/](http://jabaltorres.com/demos/dls/)  
-[http://jabaltorres.com/demos/janelle/](http://jabaltorres.com/demos/janelle/)  
-[http://jabaltorres.com/demos/js-playground/](http://jabaltorres.com/demos/js-playground/)  
-[http://jabaltorres.com/demos/jt-resume/](http://jabaltorres.com/demos/jt-resume/)  
-[http://jabaltorres.com/demos/jt-styles/](http://jabaltorres.com/demos/jt-styles/)  
-[http://jabaltorres.com/demos/mms7-digital-promo-concepts/](http://jabaltorres.com/demos/mms7-digital-promo-concepts/)  
-[http://jabaltorres.com/demos/mms7-dpk/](http://jabaltorres.com/demos/mms7-dpk/)  
-[http://jabaltorres.com/demos/Portfolio-Template/](http://jabaltorres.com/demos/Portfolio-Template/)  
-[http://jabaltorres.com/demos/refinery/](http://jabaltorres.com/demos/refinery/)  
-[http://jabaltorres.com/demos/test/](http://jabaltorres.com/demos/test/)  
-[http://jabaltorres.com/demos/web-fun/](http://jabaltorres.com/demos/web-fun/)  
-
 
 ### Bash Links
 [Opening Sublime Text on command line as subl on Mac OS?](http://stackoverflow.com/questions/16199581/opening-sublime-text-on-command-line-as-subl-on-mac-os)  
@@ -38,6 +18,7 @@ Simple Parallax Tutorial
 ### New SASS Splash Dev Resource Links
 [Drupal 101: Theming Drupal 7 with gulp](https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/)  
 [Getting started with Gulp and Sass](http://ryanchristiani.com/getting-started-with-gulp-and-sass/)  
+[Getting started with gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
 [BrowserSync Documentation](https://www.browsersync.io/docs/gulp)  
 [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)  
 [Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)  
@@ -53,11 +34,6 @@ Simple Parallax Tutorial
 [Javascript aggregation in Drupal 7](https://www.lullabot.com/articles/javascript-aggregation-in-drupal-7)  
 
 
-### Git Resources
-[Hello World - Git Tutorial](https://guides.github.com/activities/hello-world/)
-
-
 ### Cool Links
 [http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)  
 [Using JSHint for Linting with Gulp](https://egghead.io/lessons/javascript-using-jshint-for-linting-with-gulp) 
-

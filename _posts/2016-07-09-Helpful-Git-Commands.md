@@ -9,6 +9,7 @@ Git Style Guide
 [https://github.com/agis-/git-style-guide](https://github.com/agis-/git-style-guide)
 
 Git Branch Naming Best Practices  
-[http://stackoverflow.com/questions/273695/git-branch-naming-best-practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)
+[http://stackoverflow.com/questions/273695/git-branch-naming-best-practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)  
 
-More Git Shit yo!
+
+- [Hello World - Git Tutorial](https://guides.github.com/activities/hello-world/)  
