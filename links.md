@@ -57,4 +57,7 @@ Simple Parallax Tutorial
 [Hello World - Git Tutorial](https://guides.github.com/activities/hello-world/)
 
 
+### Cool Links
+[http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)  
+[Using JSHint for Linting with Gulp](https://egghead.io/lessons/javascript-using-jshint-for-linting-with-gulp) 
 
