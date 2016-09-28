@@ -15,10 +15,6 @@ Simple Parallax Tutorial
 [Opening Sublime Text on command line as subl on Mac OS?](http://stackoverflow.com/questions/16199581/opening-sublime-text-on-command-line-as-subl-on-mac-os)  
 
 
-### New SASS Splash Dev Resource Links  
-[How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)  
-  
-
 ### Drupal Resources
 [http://dannyenglander.com/](http://dannyenglander.com/)  
 [Javascript aggregation in Drupal 7](https://www.lullabot.com/articles/javascript-aggregation-in-drupal-7)  

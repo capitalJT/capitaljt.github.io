@@ -5,8 +5,10 @@ date:   2016-09-28 09:23:20 -0700
 author: Jaballion
 categories: blog post
 ---
+### Favorite Packages
+- [Gulp Uglify](https://www.npmjs.com/package/gulp-uglify)
 
-# Gulp is cool
+### Gulp Resources
 - [http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
 - [Drupal 101: Theming Drupal 7 with gulp](https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/)  
 - [Getting started with Gulp and Sass](http://ryanchristiani.com/getting-started-with-gulp-and-sass/)  
