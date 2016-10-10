@@ -15,7 +15,7 @@ categories: blog post
 http://ryantownley.com/display-featured-image-before-single-post-title-in-genesis/  
 
 New Genesis 2.0 HTML5 Loop Hooks & How to Use Them  
-http://wpsites.net/wordpress-themes/new-genesis-2-0-loop-hooks-how-to-use-them/  
+[http://wpsites.net/wordpress-themes/new-genesis-2-0-loop-hooks-how-to-use-them/](http://wpsites.net/wordpress-themes/new-genesis-2-0-loop-hooks-how-to-use-them/)
 
 StudioPress Genesis Code  
 https://gist.github.com/studiopress  
