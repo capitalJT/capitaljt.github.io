@@ -14,7 +14,7 @@ Design 3 Pages:
 - Print
 - On-Air
 
-Build 3 Pa  ges:  
+Build 3 Pages:  
 - Digital
 - Print
 - On-Air
