@@ -5,17 +5,8 @@ date:   2016-10-08 09:06:57 -0700
 categories: bash
 ---
 
----
-
-Here is a link to my bash configuration script. I try to frequently update it. Hopefully someone finds it to be useful.
-
-{% gist 2a66ecc9c447c7a67daf %}
-
---- 
-
 http://www.appnovation.com/blogs/drupal
 https://drupalize.me/
-
 
 LevelUp Tuts - Drupal Video Playlist
 https://www.youtube.com/playlist?list=PL15BE2E8313A4E809
@@ -34,19 +25,13 @@ Default.settings.php
 
 https://api.drupal.org/api/drupal/sites!default!default.settings.php/7
 
-
- Drupal theming
-
-https://www.drupal.org/theming
-
-
-
+Drupal theming
+[https://www.drupal.org/theming](https://www.drupal.org/theming)
 
 
 6.18.15 - 2:30pm
 
-
- Moving entire Dupal site with databases
+Moving entire Dupal site with databases
 
 https://www.drupal.org/node/46389#comment-3812070
 
@@ -64,57 +49,35 @@ tar -cvzf drupal7.tar.gz ./drupal7
 
 
 
- 6-19-20
+**6-19-20**  
 
+This is how I did a mysql dump  
+`mysqldump drupal7 -ujabal -psocialma1 --host localhost > drupal7.sql`  
 
- This is how I did a mysql dump
+I originally got permission errors so the following gave me one-time access  
+`mysqldump --opt --single-transaction -u jabal -p drupal7 > dump.sql`  
 
-mysqldump drupal7 -ujabal -psocialma1 --host localhost > drupal7.sql
+This is how to connect to my personal server with ssh:  
+`ssh jabaltorres@23.229.174.73`  
 
+This is where I'm going to be working from on my local server:  
+`/home/jabaltorres/public_html/drupal-test`  
 
- I originally got permission errors so the following gave me one-time access
+This was the command that I used to copy the sql(tar) file from my local machine to the live server:  
+`scp drupal7-dump.sql.tar.gz jabaltorres@23.229.174.73:/home/jabaltorres/public_html/drupal-test`  
 
-mysqldump --opt --single-transaction -u jabal -p drupal7 > dump.sql
+Copy the drupal directory(tar) file from my local machine to the live server:  
+`scp drupal7.tar.gz jabaltorres@23.229.174.73:/home/jabaltorres/public_html/drupal-test`  
 
+Another way (shorter) of doing this would be:  
+`scp drupal7.tar.gz jabaltorres@23.229.174.73:~/public_html/drupal-test`  
 
+Expand the directory tree (unpackage) -  I personally didn’t need the “sudo”  
+`sudo tar -xzf drupal7.tar.gz`  
 
- This is how to connect to my personal server with ssh:
-
-ssh jabaltorres@23.229.174.73
-
-
- This is where I'm going to be working from on my local server:
-
-/home/jabaltorres/public_html/drupal-test
-
-
- This was the command that I used to copy the sql(tar) file from my local machine to the live server:
-
-scp drupal7-dump.sql.tar.gz jabaltorres@23.229.174.73:/home/jabaltorres/public_html/drupal-test
-
-
- This was the command that I used to copy the drupal directory(tar) file from my local machine to the live server:
-
-scp drupal7.tar.gz jabaltorres@23.229.174.73:/home/jabaltorres/public_html/drupal-test
-
-
- another way (shorter) of doing this would be:
-
-scp drupal7.tar.gz jabaltorres@23.229.174.73:~/public_html/drupal-test
-
-
-
- Expand the directory tree (unpackage) -  I personally didn’t need the “sudo”
-
-sudo tar -xzf drupal7.tar.gz
-
-
- Extracting the tar file
-
-tar -xzvf drupal-7.38.tar.gz
-
-
- sudo tar -xzf drupal7-dump.sql.tar.gz
+Extracting the tar file  
+`tar -xzvf drupal-7.38.tar.gz`  
+`sudo tar -xzf drupal7-dump.sql.tar.gz`  
 
 
  ====================================================================
@@ -211,7 +174,7 @@ drupal7/modules/node/node.tpl.php
 
 
 
-This was for Shen Designs
+This was for Shen Designs  
 `scp -r dbz_300x250_availnow jabaltorres@23.229.174.73:/home/jabaltorres/public_html/ dbz/dbz_300x250_availnow_lowres`  
 
 `scp -r dbz_300x250_availnow jabaltorres@23.229.174.73:/~/www/dbz/dbz_300x250_availnow_lowres` 
