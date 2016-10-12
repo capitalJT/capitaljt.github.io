@@ -10,5 +10,3 @@ Let's see. Cheers!
 
 ![A picture of my stoopid face](/assets/images/P1000151_JT.jpg)
 This is an example of adding an image.
-
-{% gist 11af811c7e856845f24d %}

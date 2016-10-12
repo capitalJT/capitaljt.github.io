@@ -4,6 +4,6 @@ title: Work
 permalink: /work/
 ---
 
-Super-Awesome shit coming soon.
+### Super-Awesome shit coming soon.
 
 <div class="work"></div>
