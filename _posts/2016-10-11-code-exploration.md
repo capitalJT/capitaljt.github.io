@@ -6,9 +6,13 @@ author: Jabal - Father of Dragons
 categories: blog post
 ---
 
+<hgroup>
+  <h1>Code Exploration</h1>
+  <h2>This page uses the blank template</h2>
+</hgroup>
+
 <section class="blank-page-test">
-  <h3>I think I've just discovered something really cool.</h3> 
-  <p>I've found a way to create a simple, yet efficient code playground.</p>
+  <p>This is a great place for code explorations. More info to come.</p>
 </section>
 
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>

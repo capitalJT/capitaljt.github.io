@@ -17,7 +17,11 @@ categories: blog post
 
 List of git commands  
 `git init`  
+
+Add the read me  
 `git add README.md`  
+
+Add blah  
 `git git commit -m "init commit"`  
 `git remote add origin https://github.com/capitalJT/new-repo.git`   
 `git push origin master`  
