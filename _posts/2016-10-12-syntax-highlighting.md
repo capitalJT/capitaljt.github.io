@@ -20,9 +20,11 @@ JavaScript
   console.log("No way, this is super cool");
 
 ```
+
 <hr>
 
 HTML  
+
 {% highlight html %}
 <div class="awesome">
     <h1>Hello World</h1>
