@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Syntax Highlighing"
-date:   2016-09-28 08:51:20 -0800
+date:   2016-10-12 08:51:20 -0800
 author: Jaballion
 categories: blog post
 ---
