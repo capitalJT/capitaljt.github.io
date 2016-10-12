@@ -12,6 +12,7 @@ An example of Code and Syntax Highlighting
 <hr>
 
 JavaScript  
+
 ```javascript
   var jt = "Jabal Torres";
 
