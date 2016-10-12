@@ -9,6 +9,7 @@ categories: blog post
 An example of Code and Syntax Highlighting  
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting)  
 
+<br>
 ```javascript
   var jt = "Jabal Torres";
 
