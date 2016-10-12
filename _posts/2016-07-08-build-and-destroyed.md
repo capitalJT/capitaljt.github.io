@@ -4,13 +4,6 @@ title:  "Build & Destroyed"
 date:   2016-07-08 22:08:19 -0700
 categories: thoughts
 ---
-  
-{% highlight html %}
-<div class="awesome">
-    <h1>Hello World</h1>
-</div>
-{% endhighlight %}
-**Testing syntax highlighting** 
 
 I've just deleted my Evernote account and now I'm downloading all of my files my server, which is taking forever. Once that's done I'm going to cancel my GoDaddy hosting. Why, might you ask? Evernote just came out at with a new policy that limits free accounts to only two devices. Which is fucking stupid. I can design / build my own solution. It won't not be as elegant and polished as Evernote but fuck it, I'll definitely learn a lot things in the process.
 

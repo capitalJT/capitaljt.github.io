@@ -9,8 +9,9 @@ categories: blog post
 An example of Code and Syntax Highlighting  
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting)  
 
-<br>
+<hr>
 
+JavaScript  
 ```javascript
   var jt = "Jabal Torres";
 
@@ -18,4 +19,13 @@ An example of Code and Syntax Highlighting
   console.log("No way, this is super cool");
 
 ```
+<hr>
+
+HTML  
+{% highlight html %}
+<div class="awesome">
+    <h1>Hello World</h1>
+</div>
+{% endhighlight %}
+
 
