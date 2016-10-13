@@ -9,6 +9,7 @@ categories: notes post
 ### Custom Fields Notes
 
 **Description**  
+
 * Field Label: Description
 * Field Name: description
 * Field Type: Text Area
@@ -17,7 +18,8 @@ categories: notes post
 * Rows: 6
 * Formatting: Convert HTML into tags
 
-**Body Content**   
+**Body Content**  
+ 
 * Field Label: Body Content
 * Field Name: body_content
 * Field Type: Wysiwyg Editor
@@ -27,6 +29,7 @@ categories: notes post
 * Show Media Upload Buttons: Yes
 
 **Section ID**  
+
 * Field Label: Section ID
 * Field Name: id
 * Field Type: Text
@@ -35,6 +38,7 @@ categories: notes post
 * Formatting: No Formatting
 
 **Class List**  
+
 * Field Label: Class List
 * Field Name: class_list
 * Field Type: Text
@@ -45,6 +49,7 @@ categories: notes post
 * Formatting: No formatting
 
 **Sidebar Text**  
+
 * Field Label: Sidebar Text
 * Field Name: sidebar_text
 * Field Type: Text
@@ -54,6 +59,7 @@ categories: notes post
 * Formatting: No Formatting
 
 **Download Link**  
+
 * Field Label: Download Link
 * Field Name: download_link
 * Field Type: Text

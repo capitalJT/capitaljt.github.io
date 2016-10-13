@@ -14,6 +14,3 @@ categories: blog post
 ### jQuery Links
 - [jQuery - If element does not have parent with specific class](http://stackoverflow.com/questions/15680580/jquery-if-element-does-not-have-parent-with-specific-class)
 - [How do I call a function inside of another function?](http://stackoverflow.com/questions/4524877/how-do-i-call-a-function-inside-of-another-function)
-- []()
-- []()
-- []()
