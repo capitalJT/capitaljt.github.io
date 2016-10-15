@@ -36,5 +36,7 @@ Genesis Hook Reference
 [http://my.studiopress.com/docs/hook-reference/](http://my.studiopress.com/docs/hook-reference/)  
 
 Genesis Resources  
-[http://www.studiopress.com/resources](http://www.studiopress.com/resources)
+[http://www.studiopress.com/resources](http://www.studiopress.com/resources)  
+
+[How To Reorder Standard & Custom Post Type Posts In WordPress](http://www.wpexplorer.com/order-custom-post-type-posts-wordpress/)  
 
