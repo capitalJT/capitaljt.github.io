@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Dev Bookmarks"
+date:   2016-10-15 06:51:20 -0700
+author: Jaballion
+categories: blog post
+---
+
+
 ### Code Playgrounds
 - [http://codepen.io/](http://codepen.io/)
 - [http://jsfiddle.net/](http://jsfiddle.net/)
@@ -5,14 +14,10 @@
 - [https://c9.io/](https://c9.io/)
 
 ### CSS
-
-http://css3generator.com/
-
-http://www.codebeautifier.com/
-
-http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/
-
-http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html
+- [http://css3generator.com/](http://css3generator.com/)  
+- [http://www.codebeautifier.com/](http://www.codebeautifier.com/)  
+- [http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/](http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/)  
+- [http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html](http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html)  
 
 Sticky Positioning
 http://www.hongkiat.com/blog/css-sticky-position/
@@ -37,6 +42,7 @@ http://css3.bradshawenterprises.com/transitions/
 
 Fade in / out with CSS on hover
 http://webdesign.about.com/od/css3tutorials/a/fade-in-and-out-with-css3.htm
+
 Color
 
      http://paletton.com/#uid=15y0u0kllllaFw0g0qFqFg0w0aF
@@ -78,26 +84,18 @@ Fonts
      http://css-tricks.com/snippets/css/font-shorthand/
 
 
-Icon fonts
-
-     https://icomoon.io/
-
-     http://pictos.cc/
-
-     https://symbolset.com/
-
-     http://fortawesome.github.io/Font-Awesome/icons/
+### Icon fonts
+- [https://icomoon.io/](https://icomoon.io/)
+- [http://pictos.cc/](http://pictos.cc/)
+- [https://symbolset.com/](https://symbolset.com/)
+- [http://fortawesome.github.io/Font-Awesome/icons/](http://fortawesome.github.io/Font-Awesome/icons/)
+- [http://genericons.com/](http://genericons.com/)
+- [http://iconmonstr.com/](http://iconmonstr.com/)
      
-     http://genericons.com/
-     
-     http://iconmonstr.com/
-
-     My Current Favorite
-     http://thenounproject.com/
-
-     https://www.iconfinder.com/
-
-     http://fontastic.me/
+My Current Favorite
+- [http://thenounproject.com/](http://thenounproject.com/)
+- [https://www.iconfinder.com/](https://www.iconfinder.com/)
+- [http://fontastic.me/](http://fontastic.me/)
 
 great patterns
 http://subtlepatterns.com/

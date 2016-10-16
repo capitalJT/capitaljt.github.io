@@ -15,3 +15,7 @@ Opening Sublime Text on command line as subl on Mac OS?
 
 Customizing your terminal  
 [http://dobsondev.com/2014/02/21/customizing-your-terminal/](http://dobsondev.com/2014/02/21/customizing-your-terminal/)  
+
+rsync commands  
+[http://www.computerhope.com/unix/rsync.htm](http://www.computerhope.com/unix/rsync.htm)  
+

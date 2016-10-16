@@ -40,3 +40,11 @@ Genesis Resources
 
 [How To Reorder Standard & Custom Post Type Posts In WordPress](http://www.wpexplorer.com/order-custom-post-type-posts-wordpress/)  
 
+
+### WordPress Resources
+Create your first WordPress custom post type  
+[http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type](http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type)  
+
+Register custom post type  
+[https://codex.wordpress.org/Function_Reference/register_post_type#menu_position](https://codex.wordpress.org/Function_Reference/register_post_type#menu_position)  
+
