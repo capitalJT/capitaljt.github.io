@@ -5,3 +5,5 @@
 
 DOM and Style inspector  
 `Cmd` + `Opt` + `C`  
+
+http://wesbos.com/sublime-text-code-folding/  
