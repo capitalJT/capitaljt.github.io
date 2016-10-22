@@ -19,70 +19,49 @@ categories: blog post
 - [http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/](http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/)  
 - [http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html](http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html)  
 
-Sticky Positioning
-http://www.hongkiat.com/blog/css-sticky-position/
+Sticky Positioning    
+[http://www.hongkiat.com/blog/css-sticky-position/](http://www.hongkiat.com/blog/css-sticky-position/)
 
-CSS Cursor Properties
-http://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=pointer
+CSS Cursor Properties  
+[http://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=pointer](http://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=pointer)
 
-ihatetomatoes
-http://ihatetomatoes.net/smooth-scrolling-on-ios/#more-206
+ihatetomatoes  
+[http://ihatetomatoes.net/smooth-scrolling-on-ios/#more-206](http://ihatetomatoes.net/smooth-scrolling-on-ios/#more-206)
 
-Customizing Browser Scroll Bar
-http://www.hongkiat.com/blog/css-scroll-bar/
+Customizing Browser Scroll Bar  
+[http://www.hongkiat.com/blog/css-scroll-bar/](http://www.hongkiat.com/blog/css-scroll-bar/)
 
-list style types
-https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type
+list style types  
+[https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
 
-Vendor Prefixed CSS Properties
-http://peter.sh/experiments/vendor-prefixed-css-property-overview/
+Vendor Prefixed CSS Properties  
+[http://peter.sh/experiments/vendor-prefixed-css-property-overview/](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
 
-CSS Transitions
-http://css3.bradshawenterprises.com/transitions/
+CSS Transitions  
+[http://css3.bradshawenterprises.com/transitions/](http://css3.bradshawenterprises.com/transitions/)
 
-Fade in / out with CSS on hover
+Fade in / out with CSS on hover  
 http://webdesign.about.com/od/css3tutorials/a/fade-in-and-out-with-css3.htm
 
-Color
+### Color
+- [http://paletton.com/#uid=15y0u0kllllaFw0g0qFqFg0w0aF](http://paletton.com/#uid=15y0u0kllllaFw0g0qFqFg0w0aF)  
+- [https://kuler.adobe.com/](https://kuler.adobe.com/)  
+- [http://www.w3.org/TR/css3-color/#svg-color](http://www.w3.org/TR/css3-color/#svg-color)  
+- [http://hslpicker.com/](http://hslpicker.com/)  
 
-     http://paletton.com/#uid=15y0u0kllllaFw0g0qFqFg0w0aF
+## Fonts
      
-     Ultimate CSS Gradient Generator - ColorZilla.com
+-[http://cssfontstack.com/](http://cssfontstack.com/)  
+-[https://www.google.com/fonts](https://www.google.com/fonts)  
+-[http://www.fontsquirrel.com/](http://www.fontsquirrel.com/)  
+-[http://www.font2web.com/](http://www.font2web.com/)  
+-[https://typekit.com/](https://typekit.com/)  
+-[http://www.fonts.com/](http://www.fonts.com/)  
+-[http://fontdeck.com/](http://fontdeck.com/)  
+-[http://www.myfonts.com/](http://www.myfonts.com/)  
 
-     https://kuler.adobe.com/
-     
-     http://www.w3.org/TR/css3-color/#svg-color
-
-     http://hslpicker.com/
-     
-     I like this one because it provides you with degrees of the color wheel, which is vital for HSL
-     http://www.workwithcolor.com/hsl-color-picker-01.htm
-
-     Purples Hex Color Codes: Hexadecimal codes for named colors used in HTML page features
-
-
-Fonts
-     
-     http://cssfontstack.com/
-     
-     https://www.google.com/fonts
-
-     http://www.fontsquirrel.com/
-
-     http://www.font2web.com/
-
-     https://typekit.com/
-
-     http://www.fonts.com/
-
-     http://fontdeck.com/
-
-     http://www.myfonts.com/
-     
-
-     font shorthand
-     http://css-tricks.com/snippets/css/font-shorthand/
-
+Font shorthand
+[http://css-tricks.com/snippets/css/font-shorthand/](http://css-tricks.com/snippets/css/font-shorthand/)  
 
 ### Icon fonts
 - [https://icomoon.io/](https://icomoon.io/)
@@ -225,37 +204,21 @@ Nerval / Pierre Georges. Graphic & interactive design.
 
 One Page Resume
 
-http://vandelaydesign.com/blog/
-
-http://ia.net/
-
-http://viljamis.com/
-
-http://jessicahische.is/
-
-http://www.elliotjaystocks.com/blog/the-fine-flourish-of-the-ligature/
-
-http://simplebits.com/
-
-http://circlesconference.com/
-
-https://www.theleagueofmoveabletype.com/manifesto
-
-http://2012.buildconf.com/conference/
-
-http://www.griplimited.com/
-
-http://www.jrvelasco.com/
-
-http://www.blackestate.co.nz/
-
-http://ilovetypography.com/
-
-http://typecast.com/blog/a-more-modern-scale-for-web-typography
-
-http://www.subtraction.com/
-
-
+-[http://vandelaydesign.com/blog/](http://vandelaydesign.com/blog/)  
+-[http://ia.net/](http://ia.net/)  
+-[http://viljamis.com/](http://viljamis.com/)  
+-[http://jessicahische.is/](http://jessicahische.is/)  
+-[http://www.elliotjaystocks.com/blog/the-fine-flourish-of-the-ligature/](http://www.elliotjaystocks.com/blog/the-fine-flourish-of-the-ligature/)  
+-[http://simplebits.com/](http://simplebits.com/)  
+-[http://circlesconference.com/](http://circlesconference.com/)  
+-[https://www.theleagueofmoveabletype.com/manifesto](https://www.theleagueofmoveabletype.com/manifesto)  
+-[http://2012.buildconf.com/conference/](http://2012.buildconf.com/conference/)  
+-[http://www.griplimited.com/](http://www.griplimited.com/)  
+-[http://www.jrvelasco.com/](http://www.jrvelasco.com/)  
+-[http://www.blackestate.co.nz/](http://www.blackestate.co.nz/)  
+-[http://ilovetypography.com/](http://ilovetypography.com/)  
+-[http://typecast.com/blog/a-more-modern-scale-for-web-typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)  
+-[http://www.subtraction.com/](http://www.subtraction.com/)  
 
 jQuery / JavaScript
 
@@ -478,66 +441,51 @@ Dynamic PHP menu
 http://dbwebb.se/kod-exempel/dynamic_php_menu/
 
 
+### Chrome Plugins
 
-Plugins
+Chameleon: Simple responsive website testing  
+[https://chrome.google.com/webstore/detail/chameleon/acdpiemklcfaoglpjmidpjdbhkgdoede?hl=en](https://chrome.google.com/webstore/detail/chameleon/acdpiemklcfaoglpjmidpjdbhkgdoede?hl=en)  
 
-Chameleon: Simple responsive website testing
-https://chrome.google.com/webstore/detail/chameleon/acdpiemklcfaoglpjmidpjdbhkgdoede?hl=en
+Awesome Screenshot: Capture and annotate  
+[https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en-US](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en-US)  
 
-Awesome Screenshot: Capture and annotate
-https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en-US
+Window Resizer  
+[https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en-US](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en-US)  
 
-Window Resizer
-https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en-US
+Panda 4: News and Inspiration Dashboard  
+[https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en](https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en)  
 
-Panda 4: News and Inspiration Dashboard
-https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
-
-Momentum: Personal dashboard featuring todo, weather, and inspiration
-https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
-
-RPI Insipration
-
-ELSA L - Unique Picture Frames, Photo Albums and Wall Décor
-
-Original Hover Effects with CSS3
-
-http://subtlepatterns.com/
-
-ELSA L - Unique Picture Frames, Photo Albums and Wall Décor
-
-Original Hover Effects with CSS3
+Momentum: Personal dashboard featuring todo, weather, and inspiration  
+[https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)  
 
 
-SASS
+### SASS
 
-SASS Reference
-http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+SASS Reference  
+[http://sass-lang.com/documentation/file.SASS_REFERENCE.html](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)  
 
-SASS mixins
-http://web-design-weekly.com/2013/05/12/handy-sass-mixins/
+SASS mixins  
+[http://web-design-weekly.com/2013/05/12/handy-sass-mixins/](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)  
 
-Must-have SASS mixins
-http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
+Must-have SASS mixins  
+[http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)  
 
-Architecture SASS project
-http://www.sitepoint.com/architecture-sass-project/
+Architecture SASS project  
+[http://www.sitepoint.com/architecture-sass-project/](http://www.sitepoint.com/architecture-sass-project/)  
 
-Smarter SASS mixins
-http://blog.teamtreehouse.com/smarter-sass-mixins-null
+Smarter SASS mixins  
+[http://blog.teamtreehouse.com/smarter-sass-mixins-null](http://blog.teamtreehouse.com/smarter-sass-mixins-null)  
 
-Templates
-
-Web Templates « Web css jquery
 
 
 Toolbox
 
-http://yeoman.io/
-http://nodejs.org/
-http://html5up.net/
-http://genericons.com/
-http://fortawesome.github.io/Font-Awesome/
+-[http://yeoman.io/](http://yeoman.io/)  
+-[http://nodejs.org/](http://nodejs.org/)  
+-[http://html5up.net/](http://html5up.net/)  
+-[http://genericons.com/](http://genericons.com/)  
+-[http://fortawesome.github.io/Font-Awesome/](http://fortawesome.github.io/Font-Awesome/)  
+
 www.fontsquirrel.com
 http://hex2rgba.devoth.com
 

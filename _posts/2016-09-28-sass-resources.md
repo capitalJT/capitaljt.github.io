@@ -7,4 +7,5 @@ categories: blog post
 ---
 
 - [Using Helper Classes to DRY and Scale CSS](https://www.sitepoint.com/using-helper-classes-dry-scale-css/)
-- [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+- [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)  
+- [Handy SASS Mixins](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)  

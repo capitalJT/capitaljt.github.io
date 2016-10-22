@@ -19,3 +19,5 @@ Customizing your terminal
 rsync commands  
 [http://www.computerhope.com/unix/rsync.htm](http://www.computerhope.com/unix/rsync.htm)  
 
+deploy with rsync
+[https://laracasts.com/discuss/channels/servers/deploy-with-rsync](https://laracasts.com/discuss/channels/servers/deploy-with-rsync)  
