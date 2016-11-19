@@ -11,10 +11,11 @@ http://wesbos.com/sublime-text-code-folding/
 
 ***
 
-### Helpful sublime text shortcuts
-Go to line = `⌘ + G`
-Toggle Bookmark = `CTL + F2`
-Word Wrap = Shift +  `CTL + W`
-Distraction Free Mode = `CMD + CTL + SHIFT + F`
-Toggle Iterm = `⌘ + CTRL + T`
+### Sublime Text
+Go to line = `⌘ + G`  
+Toggle Bookmark = `CTL + F2`  
+Word Wrap = Shift +  `CTL + W`  
+Distraction Free Mode = `CMD + CTL + SHIFT + F`  
+Toggle Iterm = `⌘ + CTRL + T`  
 
+### Chrome 
