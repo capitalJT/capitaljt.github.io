@@ -39,6 +39,3 @@ http://moveelo.com/blog/git-best-practices-for-teams
 Create a PHP contact form  
 http://www.lynda.com/articles/send-email-from-a-web-form-with-php
 
-
-
-
