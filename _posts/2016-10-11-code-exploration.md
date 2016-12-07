@@ -126,11 +126,11 @@ categories: blog post
     <span class="mask">
      <span class="link-wrap">
       <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <button class="link bottom-link learn-more-link">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></button>
+      <a class="link bottom-link learn-more-link">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -146,7 +146,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -162,7 +162,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -178,7 +178,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Fourth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -196,7 +196,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Fifth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -212,7 +212,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Sixth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -228,7 +228,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Seventh Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -244,7 +244,7 @@ categories: blog post
      </span>
     </span>
     <div class="text-wrap">
-      First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Eight Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
      </div>
    </div>
   </div><!-- end .partner-->
@@ -259,9 +259,6 @@ categories: blog post
     // if($(".blank-page-test").length){
     //   console.log("Do Epic Shit");
     // }
-
-
-
 
     function responsive_resize(){
       var current_width = $(window).width();
@@ -296,14 +293,16 @@ categories: blog post
       // if ( $('.text-wrap.visible').length ) {
       //    $('.text-wrap.visible').remove();
       // }
+      $('.partner').removeClass('active');
+      partnerCard.addClass('active');
 
       // conditional for mobile
       if ($('#partners').hasClass("is-small")){
         $('.text-wrap').removeClass('visible');
-        $('.partner').removeClass('active');
+        // $('.partner').removeClass('active');
         // textWrap.toggleClass('visible');
         textWrap.addClass('visible');
-        partnerCard.addClass('active');
+        
         // textWrap.slideToggle();
 
         $('html, body').animate({ scrollTop: partnerCard.offset().top }, 300);
@@ -311,16 +310,15 @@ categories: blog post
         console.log(partnerCard);
       }
 
-      if (textWrap.hasClass("visible")){
-        console.log("This is visible");
-      }
+      // if (textWrap.hasClass("visible")){
+      //   console.log("This is visible");
+      // }
 
 
 
       if ( partnersSection.hasClass( "is-large" ) ) {
         $('.text-wrap.visible').remove();
         textWrap.clone().insertAfter(theRow).addClass('visible');
-        console.log(textWrap);
       } else{
       // textWrap.addClass('visible');
       }
@@ -329,23 +327,26 @@ categories: blog post
 
     ////////////////////////////////////////////
 
-    $('.fa-times').on('click',function(){
-      var textWrap = $(this).parents('.card').children('.text-wrap');
-      var partnersSection = $(this).parents('#partners');
-      if ( partnersSection.hasClass( "is-small" ) ) {
-        textWrap.toggleClass('visible');
-        $('.partner').removeClass('active');
-      }
+    $('textWrap').on('click',function(){
+      // var textWrap = $(this).parents('.card').children('.text-wrap');
+      // var partnersSection = $(this).parents('#partners');
+
+      // $('.partner').removeClass('active');
+      console.log("clicked");
+      // if ( partnersSection.hasClass( "is-small" ) ) {
+      //   textWrap.toggleClass('visible');
+      // }
     });
 
 
 
-    // $(document).click(function(event) {
-    //   var close = $(event.target);
-    //   if ( close.hasClass('fa-times') ){
-    //    close.parents('.text-wrap').remove();
-    //   }
-    // });
+    $(document).click(function(event) {
+      var close = $(event.target);
+      if ( close.hasClass('fa-times') ){
+        $('.partner').removeClass('active');
+       close.parents('.text-wrap').remove();
+      }
+    });
  
   });//end ready
 </script>

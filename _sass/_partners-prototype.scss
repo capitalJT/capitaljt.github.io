@@ -63,22 +63,25 @@ section{
 }
 
 .text-wrap.visible{
- display: block;
- background-color: #999;
- padding: $global-spacing;
- color: white;
- position: relative;
- .fa-times{
-  background-color: #666;
-  position: absolute;
-  top: 0;
-  right: 0;
-  padding: 5px;
-  z-index: 10;
-  &:hover{
-   cursor: pointer;
+  display: block;
+  background-color: #999;
+  padding: $global-spacing;
+  color: white;
+  position: relative;
+  .fa-times{
+    background-color: #666;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10;
+    &:hover{
+     cursor: pointer;
+    }
   }
- }
+  // .is-small & {
+  //   display: none;
+  // }
 }
 
 // - filter-wrap
@@ -100,15 +103,17 @@ section{
  }
 }
 
+.partner.active{
+  .fa-arrow-circle-right{
+    transform: rotate(90deg);
+  }
+}
+  
 #partners.is-small{
  .partner{
    margin-bottom: $global-spacing;
   }
-  .partner.active{
-    .fa-arrow-circle-right{
-      transform: rotate(90deg);
-    }
-  }
+  
  .mask{
   margin-top: $global-spacing;
   display: block;
@@ -130,6 +135,9 @@ section{
  .text-wrap.visible{
   margin-bottom: $global-spacing;
  }
+ .partner .text-wrap.visible{
+    display: none;
+  }
  .top-link{
   margin-bottom: 10px;
  }
