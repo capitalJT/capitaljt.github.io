@@ -37,17 +37,20 @@ section{
  position: relative;
 }
 
-// .mask{
-//  position: absolute;
-//  top: 0;
-//  right: 0;
-//  bottom: 0;
-//  left: 0;
-//  background-color: #999;
-//  color: white;
-//  padding: $global-spacing;
-//  display: none;
-// }
+%mask{
+ position: absolute;
+ top: 0;
+ right: 0;
+ bottom: 0;
+ left: 0;
+ background-color: #999;
+ color: white;
+ padding: $global-spacing;
+ display: none;
+ a{
+  color: white;
+ }
+}
 
 .card .text-wrap{
  // display: none;
@@ -108,7 +111,7 @@ section{
     transform: rotate(90deg);
   }
 }
-  
+
 #partners.is-small{
  .partner{
    margin-bottom: $global-spacing;
@@ -132,22 +135,34 @@ section{
  }
 }
 #partners.is-large{
- .text-wrap.visible{
-  margin-bottom: $global-spacing;
- }
- .partner .text-wrap.visible{
+  .text-wrap.visible{
+    margin-bottom: $global-spacing;
+  }
+  .partner .text-wrap.visible{
     display: none;
   }
- .top-link{
-  margin-bottom: 10px;
- }
+  .partner.active .card{
+    border: solid 2px #999;
+  }
+  .link-wrap{
+    a{
+      display: block;
+    }
+  }
+  .top-link{
+    margin-bottom: 10px;
+  }
+  .mask{
+    @extend %mask;
+  }
+  .partner:hover{
+    .mask{
+      display: flex;
+    }
+  }
 }
 
-.partner:hover{
- .mask{
-  // display: flex;
- }
-}
+
 
 .partner .mask{
  text-align: center;
