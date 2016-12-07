@@ -6,14 +6,14 @@ author: Jabal - Father of Dragons
 categories: blog post
 ---
 
-<hgroup>
+<!-- <hgroup>
   <h1>Code Exploration</h1>
   <h2>This page uses the blank template</h2>
-</hgroup>
+</hgroup> -->
 
-<section class="blank-page-test">
+<!-- <section class="blank-page-test">
   <p>This is a great place for code explorations. More info to come.</p>
-</section>
+</section> -->
 
 <section class="wrap filter-wrap">
   <div class="container filter">
@@ -255,9 +255,10 @@ categories: blog post
 
 <script type="text/javascript">
   $(document).ready(function () {
-    if($(".blank-page-test").length){
-      console.log("Do Epic Shit");
-    }
+
+    // if($(".blank-page-test").length){
+    //   console.log("Do Epic Shit");
+    // }
 
 
 
@@ -279,52 +280,62 @@ categories: blog post
 
     // On user resize, run responsive_resize();
     $(window).resize(function(){
-         responsive_resize();
+      responsive_resize();
     });
 
+    ////////////////////////////////////////////
 
     $('.learn-more-link').on('click', function(event){
-    event.preventDefault();
-    var textWrap = $(this).parents('.card').children('.text-wrap');
-    var partnersSection = $(this).parents('#partners');
-    var partnerCard = $(this).parents('.partner');
-    var theRow = $(this).parents('.row');
+      event.preventDefault();
+      var textWrap = $(this).parents('.card').children('.text-wrap');
+      var partnersSection = $(this).parents('#partners');
+      var partnerCard = $(this).parents('.partner');
+      var theRow = $(this).parents('.row');
 
-    // if a text box is open, remove it
-    // if ( $('.text-wrap.visible').length ) {
-    //    $('.text-wrap.visible').remove();
-    // }
+      // if a text box is open, remove it
+      // if ( $('.text-wrap.visible').length ) {
+      //    $('.text-wrap.visible').remove();
+      // }
 
-    // conditional for mobile
-    if ($('#partners').hasClass("is-small")){
-    // event.preventDefault();
-    $('.text-wrap').removeClass('visible');
-    // textWrap.toggleClass('visible');
-    textWrap.slideToggle();
+      // conditional for mobile
+      if ($('#partners').hasClass("is-small")){
+        $('.text-wrap').removeClass('visible');
+        $('.partner').removeClass('active');
+        // textWrap.toggleClass('visible');
+        textWrap.addClass('visible');
+        partnerCard.addClass('active');
+        // textWrap.slideToggle();
 
-    $('html, body').animate({ scrollTop: partnerCard.offset().top }, 300);
+        $('html, body').animate({ scrollTop: partnerCard.offset().top }, 300);
 
-    console.log(partnerCard);
-    }
+        console.log(partnerCard);
+      }
+
+      if (textWrap.hasClass("visible")){
+        console.log("This is visible");
+      }
 
 
 
-    if ( partnersSection.hasClass( "is-large" ) ) {
-    $('.text-wrap.visible').remove();
-    textWrap.clone().insertAfter(theRow).addClass('visible');
-    console.log(textWrap);
-    } else{
-    // textWrap.addClass('visible');
-    }
+      if ( partnersSection.hasClass( "is-large" ) ) {
+        $('.text-wrap.visible').remove();
+        textWrap.clone().insertAfter(theRow).addClass('visible');
+        console.log(textWrap);
+      } else{
+      // textWrap.addClass('visible');
+      }
 
     });
 
+    ////////////////////////////////////////////
+
     $('.fa-times').on('click',function(){
-    var textWrap = $(this).parents('.card').children('.text-wrap');
-    var partnersSection = $(this).parents('#partners');
-    if ( partnersSection.hasClass( "is-small" ) ) {
-    textWrap.toggleClass('visible');
-    }
+      var textWrap = $(this).parents('.card').children('.text-wrap');
+      var partnersSection = $(this).parents('#partners');
+      if ( partnersSection.hasClass( "is-small" ) ) {
+        textWrap.toggleClass('visible');
+        $('.partner').removeClass('active');
+      }
     });
 
 
@@ -335,8 +346,6 @@ categories: blog post
     //    close.parents('.text-wrap').remove();
     //   }
     // });
-
-
-    
+ 
   });//end ready
 </script>
