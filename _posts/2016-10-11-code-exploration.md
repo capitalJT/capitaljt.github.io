@@ -327,16 +327,14 @@ categories: blog post
 
     ////////////////////////////////////////////
 
-    $('textWrap').on('click',function(){
-      // var textWrap = $(this).parents('.card').children('.text-wrap');
-      // var partnersSection = $(this).parents('#partners');
-
-      // $('.partner').removeClass('active');
-      console.log("clicked");
-      // if ( partnersSection.hasClass( "is-small" ) ) {
-      //   textWrap.toggleClass('visible');
-      // }
-    });
+    // $('.fa-times').on('click',function(){
+    //   var textWrap = $(this).parents('.card').children('.text-wrap');
+    //   var partnersSection = $(this).parents('#partners');
+    //   console.log("clicked");
+    //   if ( partnersSection.hasClass( "is-small" ) ) {
+    //     textWrap.toggleClass('visible');
+    //   }
+    // });
 
 
 
@@ -344,7 +342,10 @@ categories: blog post
       var close = $(event.target);
       if ( close.hasClass('fa-times') ){
         $('.partner').removeClass('active');
-       close.parents('.text-wrap').remove();
+        close.parents('.text-wrap').remove();
+        if ( partnersSection.hasClass( "is-small" ) ) {
+        textWrap.toggleClass('visible');
+      }
       }
     });
  
