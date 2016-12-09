@@ -1,4 +1,3 @@
-
 /*
 * ------------------------------------------------------------------------------------
 * # Contents
@@ -32,44 +31,55 @@ section{
 }
 
 .card{
- padding: $global-spacing;
- @extend %ai-box-shadow;
- position: relative;
+  padding: $global-spacing;
+  @extend %ai-box-shadow;
+  position: relative;
 }
 
 %mask{
- position: absolute;
- top: 0;
- right: 0;
- bottom: 0;
- left: 0;
- background-color: #999;
- color: white;
- padding: $global-spacing;
- display: none;
- a{
-  color: white;
- }
+ display: block;
+  @include tablet {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #999;
+    color: white;
+    padding: $global-spacing;
+    display: none;
+    a {
+      color: white;
+    }
+  }
 }
 
-.card .text-wrap{
- // display: none;
+.active .card {
+  @include tablet {
+    box-shadow: none;
+  }
 }
 
-// Mobile
-.card .text-wrap.visible{
- // display: block;
+h4.label{
+  margin-top: 0;
+}
+
+.label{
+  display: inline-block;
+  background-color: #ccc;
+  color: #666;
+  margin-bottom: $global-spacing / 2;
+}
+
+.link{
+  display: block;  
 }
 
 .text-wrap{
- display: none;
-}
-
-.text-wrap.visible{
-  display: block;
   background-color: #999;
   padding: $global-spacing;
   color: white;
+  display: none;
   position: relative;
   .fa-times{
     background-color: #666;
@@ -81,10 +91,15 @@ section{
     &:hover{
      cursor: pointer;
     }
+  } 
+  .expanded &{
+    display: block;
+    margin-top: -$global-spacing / 2;
+    margin-bottom: $global-spacing;
   }
-  // .is-small & {
-  //   display: none;
-  // }
+  .expanded.is-small &{
+    display: none;
+  }
 }
 
 // - filter-wrap
@@ -95,45 +110,29 @@ section{
 }
 
 // - featured partners
+.featured .location-info{
+  font-size: 10px; 
+}
 
 // - partners
 #partners{
- .row{
-  margin-bottom: $global-spacing;
- }
- .location-info{
-  display: none;
- }
+  .row{
+    margin-bottom: $global-spacing;
+  }
+  .location-info{
+    display: none;
+  }
+  .active{
+    .fa-arrow-circle-right{
+      transform: rotate(90deg);
+    }
+  } 
 }
 
-.partner.active{
-  .fa-arrow-circle-right{
-    transform: rotate(90deg);
-  }
-}
 
-#partners.is-small{
- .partner{
-   margin-bottom: $global-spacing;
-  }
-  
- .mask{
-  margin-top: $global-spacing;
-  display: block;
- }
- .link{
-  border: solid thin #eee;
-  // display: inline-block;
-  // background-color: red;
-  float:left;
-  width: 50%;
-  padding-top: $global-spacing / 2;
-  padding-bottom: $global-spacing / 2;
- }
- .text-wrap{
-  clear: both;
- }
-}
+
+#partners.is-small{}
+
 #partners.is-large{
   .text-wrap.visible{
     margin-bottom: $global-spacing;
@@ -141,40 +140,58 @@ section{
   .partner .text-wrap.visible{
     display: none;
   }
-  .partner.active .card{
-    border: solid 2px #999;
-  }
-  .link-wrap{
-    a{
-      display: block;
-    }
-  }
-  .top-link{
-    margin-bottom: 10px;
-  }
+}
+
+.partner{
   .mask{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    .fa{
+      display: inline-block;
+      margin-left: 10px;
+    }
+    &:after{
+      content:"";
+      display: block;
+      clear:both;
+    }
     @extend %mask;
+    @include medium-max{
+      // display: none;
+    }
   }
-  .partner:hover{
+  
+  @include tablet-max {
+    margin-bottom: $global-spacing;
+    &.active{
+      .text-wrap{
+        display: block;
+      }
+    }
     .mask{
-      display: flex;
+      margin-top: $global-spacing / 2;
+    }
+    .link{
+      border: solid thin #eee;
+      float:left;
+      width: 50%;
+      padding-top: $global-spacing / 2;
+      padding-bottom: $global-spacing / 2;
+    }
+    .text-wrap{
+      clear: both;
+    }
+  }
+  @include tablet {
+    &:hover{
+      .mask{
+        display: flex;
+      }
+    }
+    &.active .card{
+      border: solid 5px #999;
     }
   }
 }
 
-
-
-.partner .mask{
- text-align: center;
- justify-content: center;
- align-items: center;
- .fa{
-  display: inline-block;
-  margin-left: 10px;
- }
- &:after{
-  content:"";
-  display: block;
-  clear:both;
- }
-}

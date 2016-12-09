@@ -64,71 +64,80 @@ categories: blog post
     </div>
   </div>
 </section>
+
 <section id="featured-partners" class="container">
- <div class="row">
-  <div class="col-xs-12 col-sm-4 partner featured">
-   <div class="card">
-    <h4>Featured Partner</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="text-wrap">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti.
-     </span>
-     <span class="link-wrap">
-      <a class="top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="bottom-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
-    </span>
-   </div>
-  </div><!-- end .featured-partner-->
-  <div class="col-xs-12 col-sm-4 partner featured">
-   <div class="card">
-    <h4>Featured Partner</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="text-wrap">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti.
-     </span>
-     <span class="link-wrap">
-      <a class="top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="bottom-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
-    </span>
-   </div>
-  </div><!-- end .featured-partner-->
-  <div class="col-xs-12 col-sm-4 partner featured">
-   <div class="card">
-    <h4>Featured Partner</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="text-wrap">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti.
-     </span>
-     <span class="link-wrap">
-      <a class="top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="bottom-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
-    </span>
-   </div>
-  </div><!-- end .featured-partner-->
- </div> 
+  <div class="row">
+    <div class="col-xs-12 col-sm-4 partner featured">
+      <div class="card">
+        <h4 class="label">Featured Partner</h4>
+        <span class="img-wrap">
+          <img src="http://placehold.it/350x150" alt="placeholder img" />
+        </span>
+        <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+        <div class="mask">
+          <span class="link-wrap">
+            <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+            <a class="link learn-more" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+          </span>
+        </div>
+        <div class="text-wrap">
+          First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </div>
+      </div>
+    </div><!-- end .partner-->
+    <div class="col-xs-12 col-sm-4 partner featured">
+      <div class="card">
+        <h4 class="label">Featured Partner</h4>
+        <span class="img-wrap">
+          <img src="http://placehold.it/350x150" alt="placeholder img" />
+        </span>
+        <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+        <div class="mask">
+          <span class="link-wrap">
+            <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+            <a class="link learn-more" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+          </span>
+        </div>
+        <div class="text-wrap">
+          First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </div>
+      </div>
+    </div><!-- end .partner-->
+    <div class="col-xs-12 col-sm-4 partner featured">
+      <div class="card">
+        <h4 class="label">Featured Partner</h4>
+        <span class="img-wrap">
+          <img src="http://placehold.it/350x150" alt="placeholder img" />
+        </span>
+        <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+        <div class="mask">
+          <span class="link-wrap">
+            <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+            <a class="link learn-more" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+          </span>
+        </div>
+        <div class="text-wrap">
+          First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </div>
+      </div>
+    </div><!-- end .partner-->
+  </div><!-- end .row--> 
 </section>
+
 <section id="partners" class="container">
- <div class="row">
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
     <div class="text-wrap">
       First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
@@ -136,143 +145,197 @@ categories: blog post
   </div><!-- end .partner-->
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
     <div class="text-wrap">
-      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
   </div><!-- end .partner-->
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
     <div class="text-wrap">
-      Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
+     </div>
+   </div>
+  </div><!-- end .partner--> 
+  <div class="col-xs-12 col-sm-3 partner">
+   <div class="card">
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
+    </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
+    <div class="text-wrap">
+      Fourth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
+     </div>
+   </div>
+  </div><!-- end .partner-->  
+  <div class="col-xs-12 col-sm-3 partner">
+   <div class="card">
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
+    </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
+    <div class="text-wrap">
+      Fifth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
   </div><!-- end .partner-->
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
-    <div class="text-wrap">
-      Fourth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
-     </div>
-   </div>
-  </div><!-- end .partner-->
- </div><!-- end .row-->
- <div class="row">
-  <div class="col-xs-12 col-sm-3 partner">
-   <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
     <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
+    <div class="mask">
      <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
      </span>
-    </span>
+    </div>
     <div class="text-wrap">
-      Fifth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Sixth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
   </div><!-- end .partner-->
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
     <div class="text-wrap">
-      Sixth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Seventh Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
+     </div>
+   </div>
+  </div><!-- end .partner--> 
+  <div class="col-xs-12 col-sm-3 partner">
+   <div class="card">
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
+    </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
+    <div class="text-wrap">
+      Eighth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
   </div><!-- end .partner-->
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
     <div class="text-wrap">
-      Seventh Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Seventh Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
-  </div><!-- end .partner-->
+  </div><!-- end .partner--> 
   <div class="col-xs-12 col-sm-3 partner">
    <div class="card">
-    <h4>Solution Provider</h4>
-    <img src="http://placehold.it/350x150" alt="placeholder img" />
-    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
-    <span class="mask">
-     <span class="link-wrap">
-      <a class="link top-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
-      <a class="link bottom-link learn-more-link" href="#">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-     </span>
+    <h4 class="label">Solution Provider</h4>
+    <span class="img-wrap">
+      <img src="http://placehold.it/350x150" alt="placeholder img" />
     </span>
+    <span class="location-info">Palo Alto, CA - USA | Palo Alto, CA - USA | Palo Alto, CA - USA</span>
+    <div class="mask">
+     <span class="link-wrap">
+      <a class="link external-link" href="http://arxsis.com" target="_blank">Partner Website<i class="fa fa-external-link" aria-hidden="true"></i></a>
+      <a class="link learn-more">Learn More<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+     </span>
+    </div>
     <div class="text-wrap">
-      Eight Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <i class="fa fa-times" aria-hidden="true"></i>
+      Eighth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus semper tortor nec euismod. In egestas sem ac mi tincidunt condimentum. Quisque quis volutpat dui, et accumsan metus. Suspendisse potenti. <span class="close-x"><i class="fa fa-times" aria-hidden="true"></i></span>
      </div>
    </div>
-  </div><!-- end .partner-->
- </div><!-- end .row-->
+  </div><!-- end .partner-->  
 </section>    
 
-<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script> -->
 
-<script type="text/javascript">
+<script src="assets/js/jquery.js"></script>
+
+<script>
+(function($) {
   $(document).ready(function () {
-
-    // if($(".blank-page-test").length){
-    //   console.log("Do Epic Shit");
-    // }
 
     function responsive_resize(){
       var current_width = $(window).width();
       var test_width = 768;
       if (current_width > test_width){
-        $('#partners').addClass("is-large").removeClass("is-small");
+        $('#partners, .expanded').addClass("is-large").removeClass("is-small");
       }
       else if (current_width < test_width){
-        $('#partners').addClass("is-small").removeClass("is-large");
+        $('#partners, .expanded').addClass("is-small").removeClass("is-large");
       }
+    }
+
+    function wrap_divs(){
+      var divs = $("#partners > div");
+      for (var i = 0; i < divs.length; i+=4) {
+        divs.slice(i, i+4).wrapAll("<div class='row'></div>");
+      }  
     }
 
     $(function() {
       responsive_resize();
+      wrap_divs();
     });
 
     // On user resize, run responsive_resize();
@@ -280,74 +343,48 @@ categories: blog post
       responsive_resize();
     });
 
-    ////////////////////////////////////////////
 
-    $('.learn-more-link').on('click', function(event){
+    $('#partners .learn-more').on('click', function(event){
       event.preventDefault();
       var textWrap = $(this).parents('.card').children('.text-wrap');
       var partnersSection = $(this).parents('#partners');
       var partnerCard = $(this).parents('.partner');
       var theRow = $(this).parents('.row');
 
-      // if a text box is open, remove it
-      // if ( $('.text-wrap.visible').length ) {
-      //    $('.text-wrap.visible').remove();
-      // }
-      $('.partner').removeClass('active');
-      partnerCard.addClass('active');
+      $('.partner').not(partnerCard).removeClass('active');
+      partnerCard.toggleClass('active');
 
       // conditional for mobile
       if ($('#partners').hasClass("is-small")){
-        $('.text-wrap').removeClass('visible');
-        // $('.partner').removeClass('active');
-        // textWrap.toggleClass('visible');
-        textWrap.addClass('visible');
-        
-        // textWrap.slideToggle();
-
         $('html, body').animate({ scrollTop: partnerCard.offset().top }, 300);
-
-        console.log(partnerCard);
+        textWrap.clone().insertAfter(theRow).wrap( '<div class="expanded is-small"></div>' );
       }
-
-      // if (textWrap.hasClass("visible")){
-      //   console.log("This is visible");
-      // }
-
-
 
       if ( partnersSection.hasClass( "is-large" ) ) {
-        $('.text-wrap.visible').remove();
-        textWrap.clone().insertAfter(theRow).addClass('visible');
-      } else{
-      // textWrap.addClass('visible');
-      }
+        $('.expanded').remove();
+        textWrap.clone().insertAfter(theRow).wrap( '<div class="expanded"></div>' );
 
+        // toggle to close `.expanded`
+        if (!$(partnerCard).hasClass("active")){
+          $('.expanded').remove();
+        }
+      }
     });
 
-    ////////////////////////////////////////////
 
-    // $('.fa-times').on('click',function(){
-    //   var textWrap = $(this).parents('.card').children('.text-wrap');
-    //   var partnersSection = $(this).parents('#partners');
-    //   console.log("clicked");
-    //   if ( partnersSection.hasClass( "is-small" ) ) {
-    //     textWrap.toggleClass('visible');
-    //   }
-    // });
-
-
-
+    // close button clicked
     $(document).click(function(event) {
       var close = $(event.target);
       if ( close.hasClass('fa-times') ){
         $('.partner').removeClass('active');
-        close.parents('.text-wrap').remove();
+        $('.expanded').remove();
         if ( partnersSection.hasClass( "is-small" ) ) {
-        textWrap.toggleClass('visible');
-      }
+          textWrap.toggleClass('visible');
+        }
       }
     });
  
-  });//end ready
+  });
+
+})(jQuery);
 </script>
