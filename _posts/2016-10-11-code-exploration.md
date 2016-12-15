@@ -357,6 +357,7 @@ categories: blog post
       // conditional for mobile
       if ($('#partners').hasClass("is-small")){
         $('html, body').animate({ scrollTop: partnerCard.offset().top }, 300);
+        $('.expanded').remove();
         textWrap.clone().insertAfter(theRow).wrap( '<div class="expanded is-small"></div>' );
       }
 

@@ -64,11 +64,14 @@ h4.label{
   margin-top: 0;
 }
 
+// Bootstrap override
 .label{
   display: inline-block;
   background-color: #ccc;
   color: #666;
   margin-bottom: $global-spacing / 2;
+  font-size: 100%;
+  font-weight: 300;
 }
 
 .link{
@@ -128,8 +131,6 @@ h4.label{
     }
   } 
 }
-
-
 
 #partners.is-small{}
 
@@ -194,4 +195,3 @@ h4.label{
     }
   }
 }
-

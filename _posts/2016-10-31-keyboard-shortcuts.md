@@ -17,5 +17,9 @@ Toggle Bookmark = `CTL + F2`
 Word Wrap = Shift +  `CTL + W`  
 Distraction Free Mode = `CMD + CTL + SHIFT + F`  
 Toggle Iterm = `⌘ + CTRL + T`  
+Collapse Code = `OPT + ⌘ + {`  
+Expand Code = `OPT + ⌘ + }`  
 
 ### Chrome 
+[Chrome Dev Tools Shortcuts](https://developers.google.com/web/tools/chrome-devtools/shortcuts)  
+View Page Source = `OPT + ⌘ + U`  
