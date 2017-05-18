@@ -19,6 +19,13 @@ github_username:  capitalJT
 markdown: kramdown
 permalink: /:title
 #future: true
-
+theme: minima
 gems:
-  - jekyll-gist
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+    sass_dir: _sass
+    # style: compressed

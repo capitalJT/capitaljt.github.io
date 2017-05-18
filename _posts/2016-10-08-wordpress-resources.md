@@ -27,10 +27,7 @@ Remove link from entry title in Genesis.
 [https://gist.github.com/drivenfaroff/9642577](https://gist.github.com/drivenfaroff/9642577)  
 
 Custom favicon and apple touch icons  
-[http://www.gregreindel.com/genesis-code/custom-favicon-apple-touch-icons/](http://www.gregreindel.com/genesis-code/custom-favicon-apple-touch-icons/)  
-
-Custom post type archive genesis title before content  
-[https://gist.github.com/braddalton/5473461](https://gist.github.com/braddalton/5473461)  
+[http://www.gregreindel.com/genesis-code/custom-favicon-apple-touch-icons/](http://www.gregreindel.com/genesis-code/custom-favicon-apple-touch-icons/)    
 
 Genesis Hook Reference  
 [http://my.studiopress.com/docs/hook-reference/](http://my.studiopress.com/docs/hook-reference/)  
@@ -40,11 +37,21 @@ Genesis Resources
 
 [How To Reorder Standard & Custom Post Type Posts In WordPress](http://www.wpexplorer.com/order-custom-post-type-posts-wordpress/)  
 
+--- 
 
 ### WordPress Resources
 Create your first WordPress custom post type  
-[http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type](http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type)  
+[http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type](http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type)   
+
+---
+
+### Custom Post Types
 
 Register custom post type  
-[https://codex.wordpress.org/Function_Reference/register_post_type#menu_position](https://codex.wordpress.org/Function_Reference/register_post_type#menu_position)  
+[https://codex.wordpress.org/Function_Reference/register_post_type#menu_position](https://codex.wordpress.org/Function_Reference/register_post_type#menu_position)
 
+Custom post type archive genesis title before content  
+[https://gist.github.com/braddalton/5473461](https://gist.github.com/braddalton/5473461)
+
+Order posts by custom fields.  
+[Order posts by custom fields](https://www.advancedcustomfields.com/resources/orde-posts-by-custom-fields/)  

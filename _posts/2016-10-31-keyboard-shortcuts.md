@@ -7,10 +7,10 @@ categories: blog post
 ---
 
 
-http://wesbos.com/sublime-text-code-folding/
+[http://wesbos.com/sublime-text-code-folding/](http://wesbos.com/sublime-text-code-folding/)  
 
 ***
-
+  
 ### Sublime Text
 Go to line = `⌘ + G`  
 Toggle Bookmark = `CTL + F2`  
