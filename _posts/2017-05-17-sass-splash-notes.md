@@ -78,6 +78,8 @@ The following instructions have been tested on a freshly wiped MacBook Air 13'.
 
 ### SVG sprites 
 
+**Requirments:** svg2png uses the latest in ES2015 features, and as such requires a recent version of Node.js. Only the 6.x series onward is supported.  
+
 ![alt text][gulp-sprites]
 
 [gulp-sprites]: http://adaptivecommunity.com/documentation-assets/images/docs-screenshots/gulp-sprites.png "gulp sprites screenshot"
