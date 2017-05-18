@@ -11,29 +11,15 @@ categories: blog post
 
 ### Brand / Style Guides
 
-[Sales Force](http://sfdc-styleguide.herokuapp.com/)
-
-[Sass Style Guide](http://sass-lang.com/styleguide/brand/)
-
-[Pinterest](https://business.pinterest.com/en/brand-guidelines)  
-
-Twitter
-https://about.twitter.com/press/brand-assets
-
-Google Material Design
-http://www.google.com/design/spec/material-design/introduction.html
-
-Evernote
-https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf
-
-Dropbox
-https://www.dropbox.com/branding
-
-Airbnb Dribble
-https://dribbble.com/shots/1669299-Airbnb-UI-Toolkit-Web/attachments/263198
-
-IBM Design Language
-http://www.ibm.com/design/language/index.shtml
+* [Sales Force](http://sfdc-styleguide.herokuapp.com/)
+* [Sass Style Guide](http://sass-lang.com/styleguide/brand/)
+* [Pinterest](https://business.pinterest.com/en/brand-guidelines)  
+* [Twitter](https://about.twitter.com/press/brand-assets) 
+* [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html) 
+* [Evernote](https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf) 
+* [Dropbox](https://www.dropbox.com/branding) 
+* [Airbnb Dribble](https://dribbble.com/shots/1669299-Airbnb-UI-Toolkit-Web/attachments/263198) 
+* [IBM Design Language](http://www.ibm.com/design/language/index.shtml)  
 
 http://www.creativebloq.com/branding/great-examples-design-style-guides-3132070
      

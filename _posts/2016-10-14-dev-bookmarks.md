@@ -13,36 +13,6 @@ categories: blog post
 - [http://jsbin.com/](http://jsbin.com/)
 - [https://c9.io/](https://c9.io/)
 
-### CSS
-- [http://css3generator.com/](http://css3generator.com/)  
-- [http://www.codebeautifier.com/](http://www.codebeautifier.com/)  
-- [http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/](http://designshack.net/articles/css/create-a-hidden-sliding-navigation-bar-using-css3-transitions/)  
-- [http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html](http://aceinfowayindia.com/blog/ace-tuts/css-rollover.html)  
-
-Sticky Positioning    
-[http://www.hongkiat.com/blog/css-sticky-position/](http://www.hongkiat.com/blog/css-sticky-position/)
-
-CSS Cursor Properties  
-[http://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=pointer](http://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=pointer)
-
-ihatetomatoes  
-[http://ihatetomatoes.net/smooth-scrolling-on-ios/#more-206](http://ihatetomatoes.net/smooth-scrolling-on-ios/#more-206)
-
-Customizing Browser Scroll Bar  
-[http://www.hongkiat.com/blog/css-scroll-bar/](http://www.hongkiat.com/blog/css-scroll-bar/)
-
-list style types  
-[https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
-
-Vendor Prefixed CSS Properties  
-[http://peter.sh/experiments/vendor-prefixed-css-property-overview/](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
-
-CSS Transitions  
-[http://css3.bradshawenterprises.com/transitions/](http://css3.bradshawenterprises.com/transitions/)
-
-Fade in / out with CSS on hover  
-http://webdesign.about.com/od/css3tutorials/a/fade-in-and-out-with-css3.htm
-
 --- 
 
 ### Color
@@ -53,21 +23,6 @@ http://webdesign.about.com/od/css3tutorials/a/fade-in-and-out-with-css3.htm
 - [http://hslpicker.com/](http://hslpicker.com/)  
 - http://hex2rgba.devoth.com
 
----
-
-### Icon fonts
-- [https://icomoon.io/](https://icomoon.io/)
-- [http://pictos.cc/](http://pictos.cc/)
-- [https://symbolset.com/](https://symbolset.com/)
-- [http://fortawesome.github.io/Font-Awesome/icons/](http://fortawesome.github.io/Font-Awesome/icons/)
-- [http://genericons.com/](http://genericons.com/)
-- [http://iconmonstr.com/](http://iconmonstr.com/)
-     
-My Current Favorite
-- [http://thenounproject.com/](http://thenounproject.com/)
-- [https://www.iconfinder.com/](https://www.iconfinder.com/)
-- [http://fontastic.me/](http://fontastic.me/)
-
 --- 
 
 Patterns
@@ -76,44 +31,6 @@ http://subtlepatterns.com/
 http://www.1stwebdesigner.com/design/image-styling-coding-tutorials/
 
 Slide in Captions
-
---- 
-
-### Image captions with css3
-
-http://www.hongkiat.com/blog/css3-image-captions/
-
-http://www.cvwdesign.com/txp/article/395/css3-box-shadow-and-image-hover-effects
-
-http://www.htmldrive.net/items/show/1091/CSS3-animation-shadows-image-hover-effect
-
-http://sixrevisions.com/css/snazzy-hover-effects-using-css/
-
-http://designshack.net/tutorialexamples/imagehovers/index.html
-
-http://www.smashingapps.com/2012/11/08/12-free-and-amazing-css3-image-hover-effects-for-downloads.html
-
-http://www.webmonkey.com/2010/02/css-properties/
-
-http://www.webmonkey.com/2010/02/css-attributes/
-
-Text Rotation Link
-http://snook.ca/archives/html_and_css/css-text-rotation
-
-How To Create an IE-Only Stylesheet
-http://css-tricks.com/how-to-create-an-ie-only-stylesheet/
-
-Page Transitions with CSS3
-http://tympanus.net/codrops/2012/01/30/page-transitions-with-css3/
-
----
-
-### Freebies
-
-Freebies | Patternhead
-
-Free library of HTML, CSS, Js Nuggets
-codyhouse.co
 
 ---
 
@@ -176,38 +93,6 @@ http://chromium.googlecode.com/svn/trunk/samples/audio/shiny-drum-machine.html
 
 ---
 
-### Online Learning
-
-http://www.pluralsight.com/training/Products/Individual
-
-http://scotch.io/
-
-https://coderwall.com/welcome
- 
-http://cs.harvard.edu/malan/courses/
-
-https://cs50.harvard.edu/lectures
-
-http://cs75.tv/2012/summer/
-
-http://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science
-
-http://computerscience1.tv/2011/spring/
-
-http://cs75.tv/2012/summer/
-
-http://www.leebrimelow.com/
-
-http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
-
-http://creativejs.com/
-
-http://learn.jquery.com/
-
-Angular
-https://egghead.io/ 
-
-
 ### People
 
 http://www.gordonmac.com/
@@ -221,18 +106,11 @@ http://www.guilh.com/
 ---
 
 ### Toolbox
-
--[http://yeoman.io/](http://yeoman.io/)  
--[http://nodejs.org/](http://nodejs.org/)  
--[http://html5up.net/](http://html5up.net/)  
--[http://fortawesome.github.io/Font-Awesome/](http://fortawesome.github.io/Font-Awesome/)  
-
+  
+- [http://html5up.net/](http://html5up.net/)   
 
 Asher Van Brunt Frameworks
 https://github.com/okbreathe/okcreate/blob/master/stylesheets/example.html
-
-Check CSS code for errors
-http://csslint.net
 
 Web Apps
 https://www.firebase.com/
@@ -312,5 +190,3 @@ http://www.zingdesign.com/
 http://gridstylesheets.org/
 
 http://rgb.to/
-
-

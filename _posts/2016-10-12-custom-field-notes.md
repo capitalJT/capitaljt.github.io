@@ -8,6 +8,8 @@ categories: notes post
 
 ### Custom Fields Notes
 
+WordPress custom post types for AJ DLS
+
 **Description**  
 * Field Label: Description  
 * Field Name: description  
@@ -61,6 +63,3 @@ categories: notes post
 * Required?: No  
 * Placeholder Text: (e.g. https://www.dropbox.com/downloadable-file.zip?dl=0)  
 * Formatting: No formatting  
-
-
-

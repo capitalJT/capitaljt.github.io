@@ -12,6 +12,9 @@ categories: blog post
 
 ---
 
+SASS Style Guild  
+[https://css-tricks.com/sass-style-guide/](https://css-tricks.com/sass-style-guide/)
+
 SASS Reference  
 [http://sass-lang.com/documentation/file.SASS_REFERENCE.html](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)  
 
@@ -27,8 +30,8 @@ Architecture SASS project
 Smarter SASS mixins  
 [http://blog.teamtreehouse.com/smarter-sass-mixins-null](http://blog.teamtreehouse.com/smarter-sass-mixins-null)
 
-SASS Style Guild  
-[https://css-tricks.com/sass-style-guide/](https://css-tricks.com/sass-style-guide/)
+Compass Version of Foundation
+http://foundation.zurb.com/docs/sass.html
 
 ---
 
@@ -37,21 +40,3 @@ SASS Style Guild
 - `:expanded`
 - `:compact`
 - `:compressed`
-
----
-
-### CSS Media Queries
-
-~~~~
-@media screen and (min-width: 321px){}
-@media screen and  (max-width: 766px){}
-@media screen and (min-width: 600px){}
-@media screen and  (min-width: 767px){}
-@media screen (min-width: 768px) and (max-width: 979px){}
-@media screen (max-width: 979px){}
-@media screen (min-width: 980px){}
-@media screen (min-width: 981px) and (max-width: 1199px) {}
-@media screen (min-width: 1200px) {} 
-~~~~
-
----

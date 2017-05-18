@@ -26,6 +26,10 @@ I'm using a different global flag than what is instructed in the documenation. H
 	- The main thing to note is that node creates a server and watches for changes. This process, build, server magic is happening with the good help `browser-sync`, which uses the same localhost and port as our Splash theme: `localhost:3000`. Try not to have both running at the same time because the post will change and have you chasing your tail trying to figure out what's happening. Typically it causes the second server to run on `localhost:3001`.
 - Go to [localhost:3000](http://localhost:3000)
 	- The page will look like a basic table to contents. I have to provide more details about my workflow and how I use it compile, prototype, and implement into HubSpot
+- My process:
+	- Use `npm start` for prototyping
+	- Once requirements are met run `npm run build`
+	- html and sass is processed and inlined 
 
 ### Foundation Commands:
 

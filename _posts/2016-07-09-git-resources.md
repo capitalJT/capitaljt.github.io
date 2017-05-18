@@ -14,17 +14,18 @@ categories: blog post
 - [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)  
 - [Git best practices for teams](http://moveelo.com/blog/git-best-practices-for-teams)
 
-`git add .`
+---
 
-`git git commit -m "init commit"`  
+### Quick Commands  
 
-`git remote add origin https://github.com/capitalJT/new-repo.git`
-
-`git push origin master`
+- `git add .`
+- `git git commit -m "init commit"`  
+- `git remote add origin https://github.com/capitalJT/new-repo.git`
+- `git push origin master`
 
 ---
 
-### Some initial stuff
+### Init
 
 initialize git in a repository  
     
@@ -40,7 +41,10 @@ Adds individual file
 
     git add README.md
 
-<br>
+---
+
+### Git Add
+
 This adds all files in the repository to staging  
 
     git add .
@@ -58,6 +62,10 @@ This used interactive mode.
 This is a wildcard that tells git to only stage files with html extensions
 
     git add *.html
+
+---
+
+### Git Remove
 
 Remove files
 
@@ -115,16 +123,17 @@ push to github pages
 
 
 ## Using Git
+
 ===============
 
 ### Global Settings
 -----------
 
-Related Setup: https://gist.github.com/hofmannsven/6814278
+[]() Related Setup: https://gist.github.com/hofmannsven/6814278
 
-Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
+[]() Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
 
-Interactive Beginners Tutorial: http://try.github.io/
+[]() Interactive Beginners Tutorial: http://try.github.io/
 
 
 ### Reminder

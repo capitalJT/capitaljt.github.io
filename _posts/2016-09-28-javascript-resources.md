@@ -12,11 +12,14 @@ categories: blog post
 - [How do I declare a namespace in JavaScript?](http://stackoverflow.com/questions/881515/how-do-i-declare-a-namespace-in-javascript)
 
 ### jQuery Links
+
 - [jQuery - If element does not have parent with specific class](http://stackoverflow.com/questions/15680580/jquery-if-element-does-not-have-parent-with-specific-class)
 - [How do I call a function inside of another function?](http://stackoverflow.com/questions/4524877/how-do-i-call-a-function-inside-of-another-function)
 
 
 ### jQuery / JavaScript
+
+- [http://yeoman.io/](http://yeoman.io/)
 
 MDN Web API's
 https://developer.mozilla.org/en-US/docs/Web/API
@@ -58,29 +61,8 @@ http://manos.malihu.gr/jquery-custom-content-scroller/
 Bootstrap 3 TouchSwipe
 http://lazcreative.com/blog/adding-swipe-support-to-bootstrap-carousel-3-0/
 
-
-Fullscreen Slideshow with HTML5 Audio and jQuery | Codrops
-
-Photo Booth Strips with Lightbox
-
-jQuery Parallax Tutorial - Animated Header Background
-
-Scrolling to the Top and Bottom with jQuery | Codrops
-
-Elastic Image Slideshow with Thumbnail Preview | Codrops
-
 Fancybox Gallery Plugin
 http://fancyapps.com/fancybox/?codekitCB=396560797.649738#examples
-
-Superslides - A fullscreen slider for jQuery
-
-Awesome Cufonized Fly Out Menu with jQuery and CSS3
-
-An HTML5 Slideshow w/ Canvas & jQuery | Tutorialzine Demo
-
-Awesome CSS3 & jQuery Slide Out Button | Codrops
-
-SlidesJS, a simple slideshow plugin for jQuery.
 
 http://builtbywill.com/code/booklet/
 
@@ -111,9 +93,31 @@ http://tympanus.net/codrops/2011/04/22/animated-skills-diagram/
 Awesome Mobile Image Gallery Web App
 http://tympanus.net/codrops/2010/05/27/awesome-mobile-image-gallery-web-app/
 
+---
+
 ### Carousels
 
 - Should make a list of the 10 best and limit the list length
+
+jCarousel
+http://sorgalla.com/jcarousel/examples/responsive/
+
+http://www.armagost.com/zacclickcordion/
+
+FlexSlider 2
+http://flexslider.woothemes.com/thumbnail-controlnav.html
+
+Slick Carousel
+http://kenwheeler.github.io/slick/
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
+UTIL Carousel
+http://codecanyon.net/item/utilcarousel-responsive-jquery-carousel-plugin/full_screen_preview/7542620?ref=jqueryrain&ref=wcj09&clickthrough_id&redirect_back=true
+
+Slider Pro - Elegant and Professional Slider
+http://bqworks.com/slider-pro/
 
 http://dimsemenov.com/plugins/touchcarousel/#carousel-gallery
 
@@ -138,29 +142,7 @@ http://stackoverflow.com/questions/1341358/set-size-on-background-image-with-css
 
 http://www.webdesignerdepot.com/2011/08/25-jquery-image-galleries-and-slideshow-plugins/#
 
-jCarousel
-http://sorgalla.com/jcarousel/examples/responsive/
-
-http://www.armagost.com/zacclickcordion/
-
-FlexSlider 2
-http://flexslider.woothemes.com/thumbnail-controlnav.html
-
-Slick Carousel
-http://kenwheeler.github.io/slick/
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-UTIL Carousel
-http://codecanyon.net/item/utilcarousel-responsive-jquery-carousel-plugin/full_screen_preview/7542620?ref=jqueryrain&ref=wcj09&clickthrough_id&redirect_back=true
-
-Slider Pro - Elegant and Professional Slider
-http://bqworks.com/slider-pro/
-
-Parallax Scrollng
-https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/
-
+---
 
 ### Touch Swipe
 
@@ -176,6 +158,11 @@ http://www.queness.com/post/11755/11-multi-touch-and-touch-events-javascript-lib
 
 ---
 
+### Parallax
+
 Simple Parallax Tutorial  
 [http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/](http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/)
+
+Parallax Scrollng
+https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/
 
