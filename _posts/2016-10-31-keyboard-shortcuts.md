@@ -13,8 +13,9 @@ categories: blog post
   
 ### Sublime Text
 Go to line = `⌘ + G`  
+Expand section to line = `⌘ + L`  
 Toggle Bookmark = `CTL + F2`  
-Word Wrap = Shift +  `CTL + W`  
+Word Wrap = `Shift + CTL + W`  
 Distraction Free Mode = `CMD + CTL + SHIFT + F`  
 Toggle Iterm = `⌘ + CTRL + T`  
 Collapse Code = `⌥ + ⌘ + {`  

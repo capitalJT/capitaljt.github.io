@@ -35,11 +35,16 @@ http://www.mediacollege.com/internet/javascript/image/random.html
 Resizing Carousel
 http://coolcarousels.frebsite.nl/c/22/
 
-
+---
 
 ### Data visualizations
 
-http://d3js.org/
+- http://d3js.org/
+- http://threejs.org/
+
+---
+
+### Carousels
 
 Cycle2
 http://jquery.malsup.com/cycle2/download/?codekitCB=409827818.463463
@@ -53,7 +58,6 @@ http://manos.malihu.gr/jquery-custom-content-scroller/
 Bootstrap 3 TouchSwipe
 http://lazcreative.com/blog/adding-swipe-support-to-bootstrap-carousel-3-0/
 
-http://threejs.org/
 
 Fullscreen Slideshow with HTML5 Audio and jQuery | Codrops
 
@@ -108,6 +112,8 @@ Awesome Mobile Image Gallery Web App
 http://tympanus.net/codrops/2010/05/27/awesome-mobile-image-gallery-web-app/
 
 ### Carousels
+
+- Should make a list of the 10 best and limit the list length
 
 http://dimsemenov.com/plugins/touchcarousel/#carousel-gallery
 
@@ -167,4 +173,9 @@ https://github.com/Prinzhorn/skrollr/tree/master/examples#examples
 
 11 Multi-touch and Touch event Javascript Libraries
 http://www.queness.com/post/11755/11-multi-touch-and-touch-events-javascript-libraries
+
+---
+
+Simple Parallax Tutorial  
+[http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/](http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/)
 

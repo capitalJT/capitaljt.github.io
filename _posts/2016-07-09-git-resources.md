@@ -11,7 +11,8 @@ categories: blog post
 - [Git Style Guide](https://github.com/agis-/git-style-guide)
 - [Git Branch Naming Best Practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)
 - [Pretty git branch graphs](http://stackoverflow.com/questions/1057564/pretty-git-branch-graphs)
-- [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)  
+- [Git best practices for teams](http://moveelo.com/blog/git-best-practices-for-teams)
 
 `git add .`
 
@@ -113,10 +114,10 @@ push to github pages
 --- 
 
 
-Using Git
+## Using Git
 ===============
 
-Global Settings
+### Global Settings
 -----------
 
 Related Setup: https://gist.github.com/hofmannsven/6814278
@@ -126,7 +127,7 @@ Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
 Interactive Beginners Tutorial: http://try.github.io/
 
 
-Reminder
+### Reminder
 -----------
 
 Press `minus + shift + s` and `return` to chop/fold long lines!
@@ -134,13 +135,13 @@ Press `minus + shift + s` and `return` to chop/fold long lines!
 Show folder content: `ls -la`
 
 
-Notes
+### Notes
 -----------
 
 Do not put (external) dependencies in version control!
 
 
-Setup
+### Setup
 -----------
 
 See where Git is located:
@@ -153,14 +154,14 @@ Create an alias (shortcut) for `git status`:
 `git config --global alias.st status`
 
 
-Help
+### Help
 -----------
 
 Help:
 `git help`
 
 
-General
+### General
 -----------
 
 Initialize Git:
@@ -197,7 +198,7 @@ Restore file from a custom commit (in current branch):
 `git checkout 6eb715d -- index.html`
 
 
-Reset
+### Reset
 -----------
 
 Go back to commit:
@@ -214,7 +215,8 @@ Mixed reset (move HEAD and change staging to match repo; does not affect working
 Hard reset (move HEAD and change staging dir and working dir to match repo):
 `git reset --hard 073791e7dd71b90daa853b2c5acc2c925f02dbc6`
 
-Update & Delete
+
+### Update & Delete
 -----------
 
 Test-Delete untracked files:
@@ -233,7 +235,7 @@ Update most recent commit message:
 `git commit --amend -m "New Message"`
 
 
-Branch
+### Branch
 -----------
 
 Show branches:
@@ -263,7 +265,7 @@ Delete not merged branch:
 `git branch -D branch_to_delete`
 
 
-Merge
+### Merge
 -----------
 
 True merge (fast forward):
@@ -282,7 +284,7 @@ Stop merge (in case of conflicts):
 `git reset --merge` // prior to v1.7.4
 
 
-Stash
+### Stash
 -----------
 
 Put in stash:
@@ -310,7 +312,7 @@ Delete complete stash:
 `git stash clear`
 
 
-Gitignore & Gitkeep
+### Gitignore & Gitkeep
 -----------
 
 About: https://help.github.com/articles/ignoring-files
@@ -324,7 +326,7 @@ Track empty dir:
 `touch dir/.gitkeep`
 
 
-Log
+### Log
 -----------
 
 Show commits:
@@ -371,7 +373,7 @@ Show history of commits as graph-summary:
 `git log --oneline --graph --all --decorate`
 
 
-Compare
+### Compare
 -----------
 
 Compare modified files:
@@ -413,7 +415,7 @@ Blame:
 `git blame -L10,+1 index.html`
 
 
-Releases & Version Tags
+### Releases & Version Tags
 -----------
 
 Show all released versions:
@@ -432,7 +434,7 @@ Checkout a specific release version:
 `git checkout v1.0.0`
 
 
-Collaborate
+### Collaborate
 -----------
 
 Show remote:
@@ -492,27 +494,27 @@ Delete remote branch (push nothing):
 `git push origin --delete branchname`
 
 
-Archive
+### Archive
 -----------
 Create a zip-archive: `git archive --format zip --output filename.zip master`
 
 Export/write custom log to a file: `git log --author=sven --all > log.txt`
 
 
-Troubleshooting
+### Troubleshooting
 -----------
 
 Ignore files that have already been committed to a Git repository: http://stackoverflow.com/a/1139797/1815847
 
 
-Security
+### Security
 -----------
 
 Hide Git on the web via `.htaccess`: `RedirectMatch 404 /\.git` 
 (more info here: http://stackoverflow.com/a/17916515/1815847)
 
 
-Large File Storage
+### Large File Storage
 -----------
 
 Website: https://git-lfs.github.com/

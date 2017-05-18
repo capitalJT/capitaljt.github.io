@@ -55,20 +55,6 @@ http://webdesign.about.com/od/css3tutorials/a/fade-in-and-out-with-css3.htm
 
 ---
 
-## Fonts
-     
--[http://cssfontstack.com/](http://cssfontstack.com/)  
--[https://www.google.com/fonts](https://www.google.com/fonts)  
--[http://www.fontsquirrel.com/](http://www.fontsquirrel.com/)  
--[http://www.font2web.com/](http://www.font2web.com/)  
--[https://typekit.com/](https://typekit.com/)  
--[http://www.fonts.com/](http://www.fonts.com/)  
--[http://fontdeck.com/](http://fontdeck.com/)  
--[http://www.myfonts.com/](http://www.myfonts.com/)  
-
-Font shorthand
-[http://css-tricks.com/snippets/css/font-shorthand/](http://css-tricks.com/snippets/css/font-shorthand/)  
-
 ### Icon fonts
 - [https://icomoon.io/](https://icomoon.io/)
 - [http://pictos.cc/](http://pictos.cc/)

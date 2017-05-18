@@ -8,7 +8,14 @@ categories: blog post
 
 # Sublime Packages
 
+
+- AngularJS
+- AutoFileName
+- ColorPicker
+- Emmet
+- Foundation 5 sublime snippets
 - Git
+- HTMLBoilerplate
 - LESS
 - Markdown Preview
 - MarkdownHightlighting

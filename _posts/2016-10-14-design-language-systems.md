@@ -11,15 +11,11 @@ categories: blog post
 
 ### Brand / Style Guides
 
-Sales Force
-http://sfdc-styleguide.herokuapp.com/
+[Sales Force](http://sfdc-styleguide.herokuapp.com/)
 
-Sass Style Guide
-http://sass-lang.com/styleguide/brand/
+[Sass Style Guide](http://sass-lang.com/styleguide/brand/)
 
-Pinterest
-https://business.pinterest.com/en/whats-pinterest
-https://business.pinterest.com/en/brand-guidelines
+[Pinterest](https://business.pinterest.com/en/brand-guidelines)  
 
 Twitter
 https://about.twitter.com/press/brand-assets

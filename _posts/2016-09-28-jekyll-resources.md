@@ -25,7 +25,11 @@ Additional Resources:
 - [markdown target=“_blank”](http://stackoverflow.com/questions/4425198/markdown-target-blank)
 - [Install Jekyll on Mac OS X](http://jekyll.tips/jekyll-casts/install-jekyll-on-os-x/)
 
+---
+
 ### Jekyll
+
+**FUN FACT:** The Adaptive Docs repo is built with Jekyll
 
 1. Clone the [Adaptive Docs repo](https://github.com/AdaptivePlanning/adaptive-docs.git) -  It's built with Jekyll
 2. Install [Jekyll](https://jekyllrb.com/) and [Bundler](http://bundler.io/) gems through RubyGems

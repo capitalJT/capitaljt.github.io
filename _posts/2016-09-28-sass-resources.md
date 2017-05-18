@@ -29,3 +29,29 @@ Smarter SASS mixins
 
 SASS Style Guild  
 [https://css-tricks.com/sass-style-guide/](https://css-tricks.com/sass-style-guide/)
+
+---
+
+[Sass Output Styles](https://web-design-weekly.com/2014/06/15/different-sass-output-styles/)
+- `:nested`
+- `:expanded`
+- `:compact`
+- `:compressed`
+
+---
+
+### CSS Media Queries
+
+~~~~
+@media screen and (min-width: 321px){}
+@media screen and  (max-width: 766px){}
+@media screen and (min-width: 600px){}
+@media screen and  (min-width: 767px){}
+@media screen (min-width: 768px) and (max-width: 979px){}
+@media screen (max-width: 979px){}
+@media screen (min-width: 980px){}
+@media screen (min-width: 981px) and (max-width: 1199px) {}
+@media screen (min-width: 1200px) {} 
+~~~~
+
+---
