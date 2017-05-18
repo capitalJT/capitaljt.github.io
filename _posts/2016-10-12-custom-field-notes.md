@@ -6,8 +6,6 @@ author: Jabastard
 categories: notes post
 ---
 
-### Custom Fields Notes
-
 WordPress custom post types for AJ DLS
 
 **Description**  

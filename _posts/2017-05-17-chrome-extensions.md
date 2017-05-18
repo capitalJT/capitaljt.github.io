@@ -6,8 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Chrome Extensions
-
 Advanced REST client 
 
 Awesome Screenshot: Capture and annotate  

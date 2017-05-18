@@ -6,7 +6,9 @@ author: Jay Tizzle
 categories: blog post
 ---
 
+### Helpful Links 
 
+- [Make Git “forget” files that were tracked but is now in .gitignore?](http://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
 - [Hello World - Git Tutorial](https://guides.github.com/activities/hello-world/)
 - [Git Style Guide](https://github.com/agis-/git-style-guide)
 - [Git Branch Naming Best Practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)

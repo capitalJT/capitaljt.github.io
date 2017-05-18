@@ -15,28 +15,38 @@ The following instructions have been tested on a freshly wiped MacBook Air 13'.
 ### Installation
 
 - [iTerm](https://www.iterm2.com/)  
+
 - Show hidden files
 	- From the terminal run `defaults write com.apple.finder AppleShowAllFiles YES; killall Finder /System/Library/CoreServices/Finder.app`
+
 - Update your `.bash_profile` with my [bash profile](https://gist.github.com/capitalJT/2a66ecc9c447c7a67daf#file-bash_profile)
+
 - [Command Line Tools](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/) - this process takes a few mins.
+
 - [Homebrew](https://brew.sh/)  
 	- I followed this tutorial to install Homebrew and Ruby [Rails installation tutorial](https://gorails.com/setup/osx/10.12-sierra) - Installing ruby with rbenv took about 5 mins
+
 - Ruby
 	- [How to update Ruby Version 2.0.0 to the latest version in Mac OSX Yosemite?](http://stackoverflow.com/questions/38194032/how-to-update-ruby-version-2-0-0-to-the-latest-version-in-mac-osx-yosemite)
 	- [Installing Ruby & Jekyll on Mac OSX](https://andytaylor.me/2012/11/03/installing-ruby-and-jekyll/) 
 
+
 - [Node.js](https://nodejs.org/en/)
 	- Make sure that /usr/local/bin is in your $PATH - [Stackoverflow Link](http://stackoverflow.com/questions/11025980/how-to-add-usr-local-bin-in-path-on-mac)
+
 
 - Install Gulp's command line interface (CLI) globally - [link](https://gruntjs.com/getting-started)  
 	`npm install gulp-cli -g`  
 	- Some info on [working with and existing grunt project](https://gruntjs.com/getting-started#working-with-an-existing-grunt-project)  
+
 - Install text editor
 	- [Sublime Text](https://www.sublimetext.com/3) or [Atom](https://atom.io/)
+
 - [Acquia Dev Desktop](https://dev.acquia.com/downloads)
 	- Log into your account
 	- Checkout DEV branch from codebase - this can take forever
 	- Make sure you have your Acquia private key handy!
+
 - [Smartgit](http://www.syntevo.com/smartgit/)
 	- Make sure you have the codebase checked out from Acquia first
 	- Add the repository from its cloned location  
@@ -113,12 +123,12 @@ The `sprites` task requires:
 ## Gulp Notes
 - Gulp commands run at the root of the theme.
 
---
+---
 
 ### Favorite Gulp Packages
 - [Gulp Uglify](https://www.npmjs.com/package/gulp-uglify)
 
---
+---
 
 ### Gulp Resources
 - [http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)

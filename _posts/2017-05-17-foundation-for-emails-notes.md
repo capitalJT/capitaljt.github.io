@@ -1,4 +1,11 @@
-### Foundation for Emails  
+---
+layout: post
+title:  "Foundation for Emails"
+date:   2017-05-18 16:19:20 -0700
+author: Jaballer
+categories: blog post
+---
+
 Install the Foundation CLI  
 ~~~~
 npm install foundation-cli -g  
