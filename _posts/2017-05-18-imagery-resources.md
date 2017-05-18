@@ -6,8 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Imagery Resources
-
 http://littlevisuals.co/
 
 http://www.gratisography.com/

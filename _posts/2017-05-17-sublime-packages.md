@@ -6,9 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Sublime Packages
-
-
 - AngularJS
 - AutoFileName
 - ColorPicker

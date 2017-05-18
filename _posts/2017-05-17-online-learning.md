@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Sublime Packages"
+title:  "Online Learning"
 date:   2017-05-19 23:26:20 -0700
 author: Jaballer
 categories: blog post
 ---
-
-# Online Learning
 
 http://www.pluralsight.com/training/Products/Individual 
 

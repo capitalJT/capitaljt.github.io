@@ -6,9 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Icon Notes
-
-
 ### Icon fonts
 - [https://icomoon.io/](https://icomoon.io/)
 - [http://pictos.cc/](http://pictos.cc/)
