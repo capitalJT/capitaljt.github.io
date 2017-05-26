@@ -13,6 +13,7 @@ categories: blog post
 - Foundation 5 sublime snippets
 - Git
 - HTMLBoilerplate
+- HTML-CSS-JS Prettify
 - LESS
 - Markdown Preview
 - MarkdownHightlighting
