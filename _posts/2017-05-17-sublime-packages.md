@@ -22,3 +22,4 @@ categories: blog post
 - Package Control
 - SASS
 - Zurb Ink Snippets
+- BracketHighlighter
