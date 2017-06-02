@@ -6,20 +6,18 @@ author: Jaballer
 categories: blog post
 ---
 
-# Imagery Resources
-
 http://littlevisuals.co/
 
 http://www.gratisography.com/
 
-Mobile photos
+### Mobile photos
 http://getrefe.tumblr.com/
 
 http://jaymantri.com/
 
 http://magdeleine.co/
 
-Food images
+### Food images
 http://foodiesfeed.com/
 
 http://www.imcreator.com/free
@@ -35,10 +33,8 @@ http://thepatternlibrary.com/
 Advanced Lossy Compression
 https://tinypng.com/
 
-FPO Images
+### FPO Images
 
 http://dummyimage.com/
 http://placehold.it/
-
 https://unsplash.com/
-

@@ -6,8 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Project Phases
-
 **Phase 1 - Foundation / Discovery**  
 Biz req ok (product manager)
 Site map - info arch

@@ -6,8 +6,6 @@ author: Jaballion
 categories: blog post
 ---
 
-# HTML Frameworks
-
 - [Unsemantic](http://unsemantic.com/demo-responsive)
 - [Cool Kitten](https://github.com/jalxob/cool-kitten)
 - [Gumby](http://gumbyframework.com/)

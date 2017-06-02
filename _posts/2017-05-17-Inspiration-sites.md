@@ -6,8 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Inspiration
-
 - [http://vandelaydesign.com/blog/](http://vandelaydesign.com/blog/)  
 - [http://ia.net/](http://ia.net/)  
 - [http://viljamis.com/](http://viljamis.com/)  

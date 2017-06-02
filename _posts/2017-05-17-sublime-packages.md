@@ -6,9 +6,6 @@ author: Jaballer
 categories: blog post
 ---
 
-# Sublime Packages
-
-
 - AngularJS
 - AutoFileName
 - ColorPicker
@@ -16,6 +13,7 @@ categories: blog post
 - Foundation 5 sublime snippets
 - Git
 - HTMLBoilerplate
+- HTML-CSS-JS Prettify
 - LESS
 - Markdown Preview
 - MarkdownHightlighting

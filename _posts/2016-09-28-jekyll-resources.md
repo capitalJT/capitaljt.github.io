@@ -6,8 +6,6 @@ author: Jaballion
 categories: blog post
 ---
 
-# Jekyll
-
 **FUN FACT:** The Adaptive Docs repo is built with Jekyll
 
 1. Clone the [Adaptive Docs repo](https://github.com/AdaptivePlanning/adaptive-docs.git) -  It's built with Jekyll
