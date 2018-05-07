@@ -43,3 +43,8 @@ This was for Shen Designs
 `scp -r dbz_300x250_availnow jabaltorres@23.229.174.73:/home/jabaltorres/public_html/ dbz/dbz_300x250_availnow_lowres`  
 
 `scp -r dbz_300x250_availnow jabaltorres@23.229.174.73:/~/www/dbz/dbz_300x250_availnow_lowres` 
+
+---
+
+### Kill Apache:
+`sudo apachectl stop`
