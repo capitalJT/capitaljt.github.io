@@ -47,24 +47,24 @@ Adds individual file
 
 ### Git Add
 
-This adds all files in the repository to staging  
+Adds all files in the repository to staging  
 
     git add .
 
-This adds, modifies, and removes index entries to match the working tree.
+Adds, modifies, and removes index entries to match the working tree.
 
     git add --all
 
-This used interactive mode.
+Interactive mode.
 
     git add -i
 
-**look at git patch skitch note**
+**Look at git patch skitch note**
 
-This is a wildcard that tells git to only stage files with html extensions
+Wildcard that tells git to only stage files with html extensions
 
     git add *.html
-
+    
 ---
 
 ### Git Remove
@@ -77,11 +77,11 @@ Remove files
 
 ### Git Commit
 
-commit the changes to the repo
+Commit the changes to the repo
 
     git commit -m ‘First commit'
 
-commit add all changes on tracked files and include message
+Commit add all changes on tracked files and include message
 
     git commit -am "Comment Added"
 
@@ -93,15 +93,15 @@ Shortcut command:  add all changes to the stage, commit and reuse existing commi
 
 ### Git Push
 
-push the commits to a remote repository
+Push the commits to a remote repository
 
     git remote add origin https://github.com/capitalJT/github-tut.git
 
-push to master
+Push to master
 
     git push -u origin master
 
-push to github pages
+Push to github pages
 
     git push -u origin gh-pages
 
