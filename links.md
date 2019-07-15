@@ -4,6 +4,13 @@ title: Links
 permalink: /links/
 ---
 
+### Design
+
+[Aspect Ratio Calculator](https://andrew.hedges.name/experiments/aspect_ratio/)  
+
+
+### Development
+
 The One True Brace Style  
 [https://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS](https://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)
 
@@ -24,4 +31,4 @@ Online file comparison
 [https://developer.chrome.com/devtools/docs/console-api](https://developer.chrome.com/devtools/docs/console-api)  
 
 **Blackbox JavaScript Source Files**  
-[https://developer.chrome.com/devtools/docs/blackboxing](https://developer.chrome.com/devtools/docs/blackboxing)   
+[https://developer.chrome.com/devtools/docs/blackboxing](https://developer.chrome.com/devtools/docs/blackboxing)

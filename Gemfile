@@ -6,6 +6,7 @@ ruby RUBY_VERSION
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
+#     bundle exec jekyll serve --incremental
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
