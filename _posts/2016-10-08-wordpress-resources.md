@@ -46,7 +46,6 @@ Create your first WordPress custom post type
 ---
 
 ### Custom Post Types
-
 Register custom post type  
 [https://codex.wordpress.org/Function_Reference/register_post_type#menu_position](https://codex.wordpress.org/Function_Reference/register_post_type#menu_position)
 
@@ -55,3 +54,7 @@ Custom post type archive genesis title before content
 
 Order posts by custom fields.  
 [Order posts by custom fields](https://www.advancedcustomfields.com/resources/orde-posts-by-custom-fields/)  
+
+---
+
+### WordPress Plugins
