@@ -35,8 +35,6 @@ BrowserSync UI: http://localhost:3001/  - This port can vary
 ### Gulp Commands: SASS
 NPM: [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 
-<img src="//adaptivecommunity.com/documentation-assets/images/docs-screenshots/gulp-sass-modes.png">
-
 Our `sass` function can take outputStyle arguments for modes. In our drupal site we don't need to pass any arguments because our site is configured to compress the css and js for prod. However, you may want to pass an argument if you wanted to compile sass for css files that share our variables.
 
 [Sass Output Styles](https://web-design-weekly.com/2014/06/15/different-sass-output-styles/)
